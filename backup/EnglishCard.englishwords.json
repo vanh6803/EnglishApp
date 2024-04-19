@@ -1,0 +1,7851 @@
+[{
+  "_id": {
+    "$oid": "66092e311e73e9309294357e"
+  },
+  "word": "Life",
+  "meaning": "Cuộc sống",
+  "pronunciation": "/laɪf/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Life is full of surprises."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294357f"
+  },
+  "word": "Live",
+  "meaning": "Sống",
+  "pronunciation": "/lɪv/",
+  "word_type": "Verb",
+  "topic": "Life",
+  "example_sentence": "I want to live my life to the fullest."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943580"
+  },
+  "word": "Alive",
+  "meaning": "Sống, sống động",
+  "pronunciation": "/əˈlaɪv/",
+  "word_type": "Adjective",
+  "topic": "Life",
+  "example_sentence": "The flowers made the garden look alive."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943581"
+  },
+  "word": "Lifestyle",
+  "meaning": "Lối sống",
+  "pronunciation": "/ˈlaɪfˌstaɪl/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She leads a healthy lifestyle."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943582"
+  },
+  "word": "Living",
+  "meaning": "Sống, sinh hoạt",
+  "pronunciation": "/ˈlɪvɪŋ/",
+  "word_type": "Adjective",
+  "topic": "Life",
+  "example_sentence": "The living room is spacious."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943583"
+  },
+  "word": "Existence",
+  "meaning": "Sự tồn tại",
+  "pronunciation": "/ɪɡˈzɪstəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The existence of life on other planets is a topic of debate."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943584"
+  },
+  "word": "Experience",
+  "meaning": "Kinh nghiệm",
+  "pronunciation": "/ɪkˈspɪriəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Traveling broadens your experience."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943585"
+  },
+  "word": "Vitality",
+  "meaning": "Sức sống",
+  "pronunciation": "/vaɪˈtæləti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She has a lot of vitality for her age."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943586"
+  },
+  "word": "Purpose",
+  "meaning": "Mục đích",
+  "pronunciation": "/ˈpɜrpəs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Finding purpose in life gives meaning."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943587"
+  },
+  "word": "Thrive",
+  "meaning": "Phát triển mạnh mẽ, thịnh vượng",
+  "pronunciation": "/θraɪv/",
+  "word_type": "Verb",
+  "topic": "Life",
+  "example_sentence": "Some plants thrive in acidic soil."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943588"
+  },
+  "word": "Survive",
+  "meaning": "Sống sót",
+  "pronunciation": "/sərˈvaɪv/",
+  "word_type": "Verb",
+  "topic": "Life",
+  "example_sentence": "The explorers had to survive in harsh conditions."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943589"
+  },
+  "word": "Well-being",
+  "meaning": "Sức khỏe, phúc lợi",
+  "pronunciation": "/ˈwɛlˌbiɪŋ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Meditation contributes to overall well-being."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294358a"
+  },
+  "word": "Happiness",
+  "meaning": "Hạnh phúc",
+  "pronunciation": "/ˈhæpɪnəs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Finding happiness is a lifelong pursuit."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294358b"
+  },
+  "word": "Joy",
+  "meaning": "Niềm vui",
+  "pronunciation": "/dʒɔɪ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her laughter filled the room with joy."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294358c"
+  },
+  "word": "Sorrow",
+  "meaning": "Nỗi buồn",
+  "pronunciation": "/ˈsɑroʊ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The loss of a loved one brings deep sorrow."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294358d"
+  },
+  "word": "Contentment",
+  "meaning": "Sự mãn nguyện",
+  "pronunciation": "/kənˈtɛntmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "He found contentment in simple pleasures."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294358e"
+  },
+  "word": "Fulfillment",
+  "meaning": "Sự hoàn thiện",
+  "pronunciation": "/fʊlˈfɪlmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Helping others brings a sense of fulfillment."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294358f"
+  },
+  "word": "Satisfaction",
+  "meaning": "Sự hài lòng",
+  "pronunciation": "/ˌsætɪsˈfækʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Completing a challenging task gives great satisfaction."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943590"
+  },
+  "word": "Emotion",
+  "meaning": "Tình cảm",
+  "pronunciation": "/ɪˈmoʊʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her face showed a range of emotions."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943591"
+  },
+  "word": "Feeling",
+  "meaning": "Cảm giác",
+  "pronunciation": "/ˈfilɪŋ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Warm sand under your feet is a pleasant feeling."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943592"
+  },
+  "word": "Passion",
+  "meaning": "Đam mê",
+  "pronunciation": "/ˈpæʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her passion for music is evident in her performances."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943593"
+  },
+  "word": "Love",
+  "meaning": "Tình yêu",
+  "pronunciation": "/lʌv/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Love knows no boundaries."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943594"
+  },
+  "word": "Affection",
+  "meaning": "Tình cảm, sự yêu mến",
+  "pronunciation": "/əˈfɛkʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She showed great affection towards her pets."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943595"
+  },
+  "word": "Care",
+  "meaning": "Quan tâm, chăm sóc",
+  "pronunciation": "/kɛr/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Nurses provide care for the sick."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943596"
+  },
+  "word": "Compassion",
+  "meaning": "Lòng trắc ẩn, lòng từ bi",
+  "pronunciation": "/kəmˈpæʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her compassion for others drives her to volunteer."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943597"
+  },
+  "word": "Connection",
+  "meaning": "Mối liên kết, mối quan hệ",
+  "pronunciation": "/kəˈnɛkʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "There's a strong connection between twins."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943598"
+  },
+  "word": "Relationship",
+  "meaning": "Mối quan hệ",
+  "pronunciation": "/rɪˈleɪʃənˌʃɪp/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Building a strong relationship takes effort."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e93092943599"
+  },
+  "word": "Bond",
+  "meaning": "Mối liên kết",
+  "pronunciation": "/bɒnd/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The bond between siblings is special."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294359a"
+  },
+  "word": "Friendship",
+  "meaning": "Tình bạn",
+  "pronunciation": "/ˈfrɛndˌʃɪp/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Their friendship lasted a lifetime."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294359b"
+  },
+  "word": "Family",
+  "meaning": "Gia đình",
+  "pronunciation": "/ˈfæməli/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Family comes first."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294359c"
+  },
+  "word": "Kinship",
+  "meaning": "Mối quan hệ họ hàng",
+  "pronunciation": "/ˈkɪnˌʃɪp/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "There's a strong sense of kinship in the community."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294359d"
+  },
+  "word": "Community",
+  "meaning": "Cộng đồng",
+  "pronunciation": "/kəˈmjuːnɪti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Community involvement is important for social cohesion."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294359e"
+  },
+  "word": "Society",
+  "meaning": "Xã hội",
+  "pronunciation": "/səˈsaɪəti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Society has certain expectations of its members."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e9309294359f"
+  },
+  "word": "Culture",
+  "meaning": "Văn hóa",
+  "pronunciation": "/ˈkʌlʧər/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Learning about different cultures broadens your perspective."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a0"
+  },
+  "word": "Tradition",
+  "meaning": "Truyền thống",
+  "pronunciation": "/trəˈdɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "We celebrate the New Year according to tradition."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a1"
+  },
+  "word": "Heritage",
+  "meaning": "Di sản",
+  "pronunciation": "/ˈhɛrɪtɪdʒ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Preserving our cultural heritage is important."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a2"
+  },
+  "word": "Identity",
+  "meaning": "Bản sắc",
+  "pronunciation": "/aɪˈdɛntəti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Language is an important part of cultural identity."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a3"
+  },
+  "word": "Belonging",
+  "meaning": "Sự thuộc về",
+  "pronunciation": "/bɪˈlɔŋɪŋ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Feeling a sense of belonging is crucial for mental health."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a4"
+  },
+  "word": "Home",
+  "meaning": "Nhà",
+  "pronunciation": "/hoʊm/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "There's no place like home."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a5"
+  },
+  "word": "Shelter",
+  "meaning": "Nơi trú ẩn",
+  "pronunciation": "/ˈʃɛltər/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The refugees sought shelter from the storm."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a6"
+  },
+  "word": "Comfort",
+  "meaning": "Sự thoải mái",
+  "pronunciation": "/ˈkʌmfərt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The soft pillow provided comfort."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a7"
+  },
+  "word": "Security",
+  "meaning": "An ninh",
+  "pronunciation": "/sɪˈkjʊrɪti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The security guard patrols the premises."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a8"
+  },
+  "word": "Safety",
+  "meaning": "An toàn",
+  "pronunciation": "/ˈseɪfti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Wearing a helmet ensures safety while biking."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435a9"
+  },
+  "word": "Protection",
+  "meaning": "Sự bảo vệ",
+  "pronunciation": "/prəˈtɛkʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The armor provided protection in battle."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435aa"
+  },
+  "word": "Support",
+  "meaning": "Sự hỗ trợ",
+  "pronunciation": "/səˈpɔrt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her friends offered unwavering support during tough times."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ab"
+  },
+  "word": "Encouragement",
+  "meaning": "Sự động viên",
+  "pronunciation": "/ɪnˈkɜrɪdʒmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her teacher's encouragement boosted her confidence."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ac"
+  },
+  "word": "Motivation",
+  "meaning": "Dong lực",
+  "pronunciation": "/ˌmoʊtəˈveɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Setting goals gives you motivation."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ad"
+  },
+  "word": "Inspiration",
+  "meaning": "Sự truyền cảm hứng",
+  "pronunciation": "/ˌɪnspəˈreɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Nature is a great source of inspiration."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ae"
+  },
+  "word": "Dream",
+  "meaning": "Giấc mơ",
+  "pronunciation": "/drim/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Follow your dreams."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435af"
+  },
+  "word": "Ambition",
+  "meaning": "Hoài bão, khát vọng",
+  "pronunciation": "/æmˈbɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She has the ambition to become a CEO."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b0"
+  },
+  "word": "Goal",
+  "meaning": "Mục tiêu",
+  "pronunciation": "/ɡoʊl/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Setting clear goals is important for success."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b1"
+  },
+  "word": "Aspiration",
+  "meaning": "Sự khát vọng, nguyện vọng",
+  "pronunciation": "/ˌæspəˈreɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her aspiration is to travel the world."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b2"
+  },
+  "word": "Achievement",
+  "meaning": "Thành tựu",
+  "pronunciation": "/əˈtʃivmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Winning the championship was a great achievement."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b3"
+  },
+  "word": "Success",
+  "meaning": "Thành công",
+  "pronunciation": "/səkˈsɛs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Hard work is the key to success."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b4"
+  },
+  "word": "Failure",
+  "meaning": "Thất bại",
+  "pronunciation": "/ˈfeɪljər/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Failure is a stepping stone to success."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b5"
+  },
+  "word": "Setback",
+  "meaning": "Rủi ro, trở ngại",
+  "pronunciation": "/ˈsɛtbæk/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Experiencing setbacks is part of life."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b6"
+  },
+  "word": "Obstacle",
+  "meaning": "Trở ngại",
+  "pronunciation": "/ˈɑbstəkəl/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She overcame many obstacles to reach her goal."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b7"
+  },
+  "word": "Challenge",
+  "meaning": "Thách thức",
+  "pronunciation": "/ˈtʃælɪndʒ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Facing challenges builds character."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b8"
+  },
+  "word": "Opportunity",
+  "meaning": "Cơ hội",
+  "pronunciation": "/ˌɑpərˈtuːnəti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Every challenge is an opportunity for growth."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435b9"
+  },
+  "word": "Growth",
+  "meaning": "Sự phát triển",
+  "pronunciation": "/ɡroʊθ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Personal growth requires stepping out of your comfort zone."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ba"
+  },
+  "word": "Development",
+  "meaning": "Sự phát triển",
+  "pronunciation": "/dɪˈvɛləpmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Urban development is changing the landscape."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435bb"
+  },
+  "word": "Progress",
+  "meaning": "Sự tiến bộ",
+  "pronunciation": "/ˈprɑɡrɛs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "We've made great progress in the last decade."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435bc"
+  },
+  "word": "Change",
+  "meaning": "Sự thay đổi",
+  "pronunciation": "/tʃeɪndʒ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Change is the only constant in life."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435bd"
+  },
+  "word": "Adaptation",
+  "meaning": "Sự thích nghi",
+  "pronunciation": "/ˌædæpˈteɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Adaptation to new environments is important for survival."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435be"
+  },
+  "word": "Transformation",
+  "meaning": "Sự biến đổi",
+  "pronunciation": "/ˌtrænsfərˈmeɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The caterpillar undergoes a transformation into a butterfly."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435bf"
+  },
+  "word": "Evolution",
+  "meaning": "Tiến hóa",
+  "pronunciation": "/ˌiːvəˈluːʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The theory of evolution explains the diversity of life."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c0"
+  },
+  "word": "Journey",
+  "meaning": "Hành trình",
+  "pronunciation": "/ˈdʒɜrni/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Life is a journey, not a destination."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c1"
+  },
+  "word": "Path",
+  "meaning": "Con đường",
+  "pronunciation": "/pæθ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "He chose a different path in life."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c2"
+  },
+  "word": "Adventure",
+  "meaning": "Cuộc phiêu lưu",
+  "pronunciation": "/ædˈvɛnʧər/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Traveling is an adventure."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c3"
+  },
+  "word": "Exploration",
+  "meaning": "Sự khám phá",
+  "pronunciation": "/ˌɛkspləˈreɪʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Space exploration has led to many discoveries."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c4"
+  },
+  "word": "Discovery",
+  "meaning": "Sự phát hiện",
+  "pronunciation": "/dɪˈskʌvəri/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The discovery of penicillin revolutionized medicine."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c5"
+  },
+  "word": "Curiosity",
+  "meaning": "Sự tò mò",
+  "pronunciation": "/ˌkjʊriˈɑsəti/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Children have a natural curiosity about the world."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c6"
+  },
+  "word": "Wonder",
+  "meaning": "Sự kỳ diệu",
+  "pronunciation": "/ˈwʌndər/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The northern lights are a wonder of nature."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c7"
+  },
+  "word": "Amazement",
+  "meaning": "Sự kinh ngạc",
+  "pronunciation": "/əˈmeɪzmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The magician's trick left the audience in amazement."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c8"
+  },
+  "word": "Awe",
+  "meaning": "Sự kinh sợ, sự kính sợ",
+  "pronunciation": "/ɔ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The Grand Canyon inspires awe."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435c9"
+  },
+  "word": "Mystery",
+  "meaning": "Bí ẩn",
+  "pronunciation": "/ˈmɪstəri/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The case remained a mystery for years."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ca"
+  },
+  "word": "Miracle",
+  "meaning": "Phép lạ",
+  "pronunciation": "/ˈmɪrəkəl/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "The survival of the hiker was a miracle."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435cb"
+  },
+  "word": "Learning",
+  "meaning": "Sự học hỏi",
+  "pronunciation": "/ˈlɜrnɪŋ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Learning is a lifelong journey."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435cc"
+  },
+  "word": "Knowledge",
+  "meaning": "Kiến thức",
+  "pronunciation": "/ˈnɒlɪdʒ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Knowledge is power."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435cd"
+  },
+  "word": "Wisdom",
+  "meaning": "Sự khôn ngoan",
+  "pronunciation": "/ˈwɪzdəm/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "With age comes wisdom."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435ce"
+  },
+  "word": "Insight",
+  "meaning": "Sự hiểu biết sâu rộng",
+  "pronunciation": "/ˈɪnsaɪt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her insight into human behavior is remarkable."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435cf"
+  },
+  "word": "Enlightenment",
+  "meaning": "Sự khai sáng",
+  "pronunciation": "/ɪnˈlaɪtənmənt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Buddha reached enlightenment under the Bodhi tree."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d0"
+  },
+  "word": "Understanding",
+  "meaning": "Sự hiểu biết",
+  "pronunciation": "/ˌʌndərˈstændɪŋ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Understanding the problem is the first step towards solving it."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d1"
+  },
+  "word": "Awareness",
+  "meaning": "Sự nhận thức",
+  "pronunciation": "/əˈwɛrnəs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Increasing awareness about climate change is crucial."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d2"
+  },
+  "word": "Consciousness",
+  "meaning": "Tâm trạng, ý thức",
+  "pronunciation": "/ˈkɑnʃəsnɪs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She regained consciousness after the accident."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d3"
+  },
+  "word": "Mindfulness",
+  "meaning": "Tâm thức",
+  "pronunciation": "/ˈmaɪndfəlnəs/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Practicing mindfulness can reduce stress."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d4"
+  },
+  "word": "Perception",
+  "meaning": "Quan điểm, nhận thức",
+  "pronunciation": "/pərˈsɛpʃən/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Perception shapes our reality."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d5"
+  },
+  "word": "Perspective",
+  "meaning": "Góc nhìn",
+  "pronunciation": "/pərˈspɛktɪv/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Looking at things from a different perspective can be enlightening."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d6"
+  },
+  "word": "Attitude",
+  "meaning": "Thái độ",
+  "pronunciation": "/ˈætɪˌtud/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Having a positive attitude can change your life."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d7"
+  },
+  "word": "Mindset",
+  "meaning": "Tư duy",
+  "pronunciation": "/ˈmaɪndˌsɛt/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Adopting a growth mindset leads to success."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d8"
+  },
+  "word": "Belief",
+  "meaning": "Niềm tin",
+  "pronunciation": "/bɪˈlif/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Faith is belief in things unseen."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435d9"
+  },
+  "word": "Faith",
+  "meaning": "Niềm tin, lòng tin",
+  "pronunciation": "/feɪθ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "She never lost faith in her abilities."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435da"
+  },
+  "word": "Trust",
+  "meaning": "Sự tin cậy",
+  "pronunciation": "/trʌst/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Trust is the foundation of any relationship."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435db"
+  },
+  "word": "Confidence",
+  "meaning": "Sự tự tin",
+  "pronunciation": "/ˈkɑnfɪdəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Self-confidence is attractive."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435dc"
+  },
+  "word": "Courage",
+  "meaning": "Can đảm",
+  "pronunciation": "/ˈkɜrɪdʒ/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Courage is not the absence of fear, but the triumph over it."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435dd"
+  },
+  "word": "Bravery",
+  "meaning": "Sự gan dạ, sự dũng cảm",
+  "pronunciation": "/ˈbreɪvəri/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Her bravery in the face of danger was admirable."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435de"
+  },
+  "word": "Resilience",
+  "meaning": "Sự kiên cường",
+  "pronunciation": "/rɪˈzɪliəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Resilience is the ability to bounce back from adversity."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435df"
+  },
+  "word": "Endurance",
+  "meaning": "Sự bền bỉ",
+  "pronunciation": "/ɪnˈdʊrəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Marathon runners need great endurance."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435e0"
+  },
+  "word": "Perseverance",
+  "meaning": "Sự kiên trì",
+  "pronunciation": "/ˌpɜrsəˈvɪrəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Perseverance is the key to success."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435e1"
+  },
+  "word": "Patience",
+  "meaning": "Sự kiên nhẫn",
+  "pronunciation": "/ˈpeɪʃəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "Patience is a virtue."
+},
+{
+  "_id": {
+    "$oid": "66092e311e73e930929435e2"
+  },
+  "word": "Tolerance",
+  "meaning": "Sự khoan dung",
+  "pronunciation": "/ˈtɑlərəns/",
+  "word_type": "Noun",
+  "topic": "Life",
+  "example_sentence": "We must have tolerance for those who are different from us."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e3"
+  },
+  "word": "Sport",
+  "meaning": "Thể thao",
+  "pronunciation": "/spɔːrt/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Playing sport is good for your health."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e4"
+  },
+  "word": "Athletics",
+  "meaning": "Điền kinh",
+  "pronunciation": "/æθˈletɪks/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He excels in athletics."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e5"
+  },
+  "word": "Football",
+  "meaning": "Bóng đá",
+  "pronunciation": "/ˈfʊtˌbɔːl/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They play football every weekend."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e6"
+  },
+  "word": "Basketball",
+  "meaning": "Bóng rổ",
+  "pronunciation": "/ˈbæs.kɪtˌbɔl/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She enjoys playing basketball with her friends."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e7"
+  },
+  "word": "Tennis",
+  "meaning": "Quần vợt",
+  "pronunciation": "/ˈtɛnɪs/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They have a tennis match tomorrow."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e8"
+  },
+  "word": "Soccer",
+  "meaning": "Bóng đá",
+  "pronunciation": "/ˈsɑː.kɚ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Soccer is the most popular sport in many countries."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435e9"
+  },
+  "word": "Rugby",
+  "meaning": "Bóng bầu dục",
+  "pronunciation": "/ˈrʌɡ.bi/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's a big fan of rugby."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435ea"
+  },
+  "word": "Cricket",
+  "meaning": "Cricket",
+  "pronunciation": "/ˈkrɪk.ɪt/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They are playing cricket in the park."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435eb"
+  },
+  "word": "Baseball",
+  "meaning": "Bóng chày",
+  "pronunciation": "/ˈbeɪsˌbɔːl/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He loves to watch baseball."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435ec"
+  },
+  "word": "Golf",
+  "meaning": "Golf",
+  "pronunciation": "/ɡɑlf/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're going to play golf this weekend."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435ed"
+  },
+  "word": "Volleyball",
+  "meaning": "Bóng chuyền",
+  "pronunciation": "/ˈvɑː.li.bɔːl/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They have a volleyball tournament next week."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435ee"
+  },
+  "word": "Swimming",
+  "meaning": "Bơi lội",
+  "pronunciation": "/ˈswɪmɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's training for swimming competitions."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435ef"
+  },
+  "word": "Running",
+  "meaning": "Chạy",
+  "pronunciation": "/ˈrʌnɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Running is a great way to stay fit."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f0"
+  },
+  "word": "Cycling",
+  "meaning": "Đạp xe",
+  "pronunciation": "/ˈsaɪ.kəlɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're going cycling in the mountains."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f1"
+  },
+  "word": "Boxing",
+  "meaning": "Quyền Anh",
+  "pronunciation": "/ˈbɑk.sɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's training for a boxing match."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f2"
+  },
+  "word": "Wrestling",
+  "meaning": "Vật",
+  "pronunciation": "/ˈrɛs.lɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He won a gold medal in wrestling."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f3"
+  },
+  "word": "Gymnastics",
+  "meaning": "Thể dục dụng cụ",
+  "pronunciation": "/dʒɪmˈnæs.tɪks/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's been practicing gymnastics since she was a child."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f4"
+  },
+  "word": "Skiing",
+  "meaning": "Trượt tuyết",
+  "pronunciation": "/skiː.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They enjoy skiing in the Alps."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f5"
+  },
+  "word": "Snowboarding",
+  "meaning": "Trượt tuyết",
+  "pronunciation": "/ˈsnoʊˌbɔrdɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Snowboarding is an exciting winter sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f6"
+  },
+  "word": "Surfing",
+  "meaning": "Lướt sóng",
+  "pronunciation": "/ˈsɜːrfɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He loves to go surfing in Hawaii."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f7"
+  },
+  "word": "Skateboarding",
+  "meaning": "Trượt ván",
+  "pronunciation": "/ˈskeɪtˌbɔːrdɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Skateboarding is a popular urban sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f8"
+  },
+  "word": "Sailing",
+  "meaning": "Lướt sóng",
+  "pronunciation": "/ˈseɪ.lɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're going sailing in the Mediterranean."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435f9"
+  },
+  "word": "Rowing",
+  "meaning": "Chèo thuyền",
+  "pronunciation": "/roʊ.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Rowing requires strength and technique."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435fa"
+  },
+  "word": "Canoeing",
+  "meaning": "Đi cạnô",
+  "pronunciation": "/kəˈnuː.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're planning a canoeing trip down the river."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435fb"
+  },
+  "word": "Kayaking",
+  "meaning": "Đi kayak",
+  "pronunciation": "/ˈkaɪ.æ.kɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Kayaking in whitewater can be thrilling."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435fc"
+  },
+  "word": "Climbing",
+  "meaning": "Leo núi",
+  "pronunciation": "/ˈklaɪ.mɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Climbing mountains requires strength and endurance."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435fd"
+  },
+  "word": "Hiking",
+  "meaning": "Leo núi",
+  "pronunciation": "/ˈhaɪ.kɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're going hiking in the national park."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435fe"
+  },
+  "word": "Martial arts",
+  "meaning": "Võ thuật",
+  "pronunciation": "/ˈmɑːrʃəl ɑːrts/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's been studying martial arts for years."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e930929435ff"
+  },
+  "word": "Karate",
+  "meaning": "Võ Karate",
+  "pronunciation": "/kəˈrɑːti/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's a black belt in karate."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943600"
+  },
+  "word": "Taekwondo",
+  "meaning": "Võ Taekwondo",
+  "pronunciation": "/ˌtaɪ.kwɑːnˈdoʊ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's learning taekwondo at the local gym."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943601"
+  },
+  "word": "Judo",
+  "meaning": "Võ Judo",
+  "pronunciation": "/ˈdʒuː.doʊ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's won several judo championships."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943602"
+  },
+  "word": "Fencing",
+  "meaning": "Võ đấu kiếm",
+  "pronunciation": "/ˈfen.sɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Fencing requires precision and agility."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943603"
+  },
+  "word": "Archery",
+  "meaning": "Bắn cung",
+  "pronunciation": "/ˈɑːrtʃəri/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He practices archery in his backyard."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943604"
+  },
+  "word": "Horse riding",
+  "meaning": "Đua ngựa",
+  "pronunciation": "/hɔrs raɪdɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Horse riding is her favorite hobby."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943605"
+  },
+  "word": "Equestrianism",
+  "meaning": "Đua ngựa",
+  "pronunciation": "/ɪˈkwɛstriənɪzəm/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Equestrianism is a popular sport in many countries."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943606"
+  },
+  "word": "Polo",
+  "meaning": "Đua bóng ngựa",
+  "pronunciation": "/ˈpoʊ.loʊ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They play polo at the country club."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943607"
+  },
+  "word": "Motorsport",
+  "meaning": "Đua xe hơi",
+  "pronunciation": "/ˈmoʊ.t̬ɚˌspɔrt/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Motorsport is his passion."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943608"
+  },
+  "word": "Formula 1",
+  "meaning": "Đua xe công thức 1",
+  "pronunciation": "/ˈfɔːr.mə.lə wʌn/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's a huge fan of Formula 1."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943609"
+  },
+  "word": "NASCAR",
+  "meaning": "Giải đua xe hơi NASCAR",
+  "pronunciation": "/ˈnæs.kɑːr/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "NASCAR races are thrilling."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294360a"
+  },
+  "word": "Motorcycling",
+  "meaning": "Đua xe máy",
+  "pronunciation": "/ˈmoʊ.t̬ɚˌsaɪ.kəlɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's into motorcycling."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294360b"
+  },
+  "word": "Rallying",
+  "meaning": "Đua xe địa hình",
+  "pronunciation": "/ˈræl.i.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Rallying is an extreme motorsport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294360c"
+  },
+  "word": "Table tennis",
+  "meaning": "Bóng bàn",
+  "pronunciation": "/ˈteɪ.bəl ˈtɛn.ɪs/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're playing table tennis in the garage."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294360d"
+  },
+  "word": "Badminton",
+  "meaning": "Cầu lông",
+  "pronunciation": "/ˈbæd.mɪn.tən/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Badminton is a popular recreational sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294360e"
+  },
+  "word": "Squash",
+  "meaning": "Bóng squash",
+  "pronunciation": "/skwɑːʃ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're playing squash at the sports club."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294360f"
+  },
+  "word": "Hockey",
+  "meaning": "Khúc côn cầu",
+  "pronunciation": "/ˈhɑː.ki/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Hockey is a fast-paced sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943610"
+  },
+  "word": "Field hockey",
+  "meaning": "Khúc côn cầu sân cỏ",
+  "pronunciation": "/fiːld ˈhɑː.ki/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Field hockey is popular in many countries."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943611"
+  },
+  "word": "Ice hockey",
+  "meaning": "Khúc côn cầu băng",
+  "pronunciation": "/aɪs ˈhɑː.ki/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Ice hockey is a thrilling winter sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943612"
+  },
+  "word": "Lacrosse",
+  "meaning": "Quần cầu",
+  "pronunciation": "/ləˈkrɔːs/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Lacrosse is gaining popularity worldwide."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943613"
+  },
+  "word": "Handball",
+  "meaning": "Bóng ném",
+  "pronunciation": "/ˈhændˌbɔːl/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Handball is an exciting team sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943614"
+  },
+  "word": "Water polo",
+  "meaning": "Bóng nước",
+  "pronunciation": "/ˈwɔː.t̬ɚ ˈpoʊ.loʊ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Water polo is played in a pool."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943615"
+  },
+  "word": "Bobsleigh",
+  "meaning": "Ván trượt tuyết",
+  "pronunciation": "/ˈbɑːb.sleɪ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're training for the bobsleigh competition."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943616"
+  },
+  "word": "Skeleton",
+  "meaning": "Trượt xương",
+  "pronunciation": "/ˈskel.ɪ.tən/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Skeleton is a winter sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943617"
+  },
+  "word": "Luge",
+  "meaning": "Trượt xương",
+  "pronunciation": "/luːʒ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Luge athletes reach incredible speeds."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943618"
+  },
+  "word": "Biathlon",
+  "meaning": "Đua xe trượt tuyết bắn súng",
+  "pronunciation": "/ˈbaɪ.əˌθlɑːn/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Biathlon combines skiing and rifle shooting."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943619"
+  },
+  "word": "Triathlon",
+  "meaning": "Ba môn thi",
+  "pronunciation": "/traɪˈæθ.lən/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's training for a triathlon."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294361a"
+  },
+  "word": "Decathlon",
+  "meaning": "Môn thi 10 môn",
+  "pronunciation": "/dɪˈkæθ.lɒn/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "The decathlon consists of ten track and field events."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294361b"
+  },
+  "word": "Pentathlon",
+  "meaning": "Môn thi 5 môn",
+  "pronunciation": "/penˈtæθ.lən/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "The modern pentathlon includes five sports."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294361c"
+  },
+  "word": "Heptathlon",
+  "meaning": "Môn thi 7 môn",
+  "pronunciation": "/ˌhepˈtæθ.lən/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "The heptathlon is a challenging event."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294361d"
+  },
+  "word": "Javelin",
+  "meaning": "Ném lao",
+  "pronunciation": "/ˈdʒæv.lɪn/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He threw the javelin farther than anyone else."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294361e"
+  },
+  "word": "Discus",
+  "meaning": "Ném đĩa",
+  "pronunciation": "/ˈdɪs.kəs/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's training for the discus throw."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294361f"
+  },
+  "word": "Shot put",
+  "meaning": "Ném đạp",
+  "pronunciation": "/ˈʃɑːt ˌpʊt/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She won gold in shot put at the Olympics."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943620"
+  },
+  "word": "Hammer throw",
+  "meaning": "Ném búa",
+  "pronunciation": "/ˈhæm.ɚ θroʊ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's a champion in hammer throw."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943621"
+  },
+  "word": "Long jump",
+  "meaning": "Nhảy xa",
+  "pronunciation": "/ˈlɔːŋ dʒʌmp/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He broke the long jump record."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943622"
+  },
+  "word": "High jump",
+  "meaning": "Nhảy cao",
+  "pronunciation": "/ˈhaɪ dʒʌmp/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's a high jump champion."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943623"
+  },
+  "word": "Pole vault",
+  "meaning": "Nhảy cột",
+  "pronunciation": "/ˈpoʊl vɔlt/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He cleared the bar in pole vault."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943624"
+  },
+  "word": "Triple jump",
+  "meaning": "Nhảy ba bước",
+  "pronunciation": "/ˈtrɪp.l̩ dʒʌmp/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "The triple jump is a challenging event."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943625"
+  },
+  "word": "Archery",
+  "meaning": "Bắn cung",
+  "pronunciation": "/ˈɑːrtʃəri/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's a skilled archer."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943626"
+  },
+  "word": "Target shooting",
+  "meaning": "Bắn tấn công",
+  "pronunciation": "/ˈtɑrɡɪt ˈʃuːtɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's practicing target shooting at the range."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943627"
+  },
+  "word": "Bowling",
+  "meaning": "Bowling",
+  "pronunciation": "/ˈboʊ.lɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're going bowling tonight."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943628"
+  },
+  "word": "Billiards",
+  "meaning": "Bi-a",
+  "pronunciation": "/ˈbɪl.jərdz/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He enjoys playing billiards with his friends."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943629"
+  },
+  "word": "Snooker",
+  "meaning": "Snooker",
+  "pronunciation": "/ˈsnuː.kɚ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's a skilled snooker player."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294362a"
+  },
+  "word": "Darts",
+  "meaning": "Phi tiêu",
+  "pronunciation": "/dɑːrts/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're playing darts at the pub."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294362b"
+  },
+  "word": "Weightlifting",
+  "meaning": "Nâng tạ",
+  "pronunciation": "/ˈweɪtˌlɪftɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Weightlifting requires strength and technique."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294362c"
+  },
+  "word": "Powerlifting",
+  "meaning": "Nâng tạ vận động",
+  "pronunciation": "/ˈpaʊərˌlɪftɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Powerlifting focuses on lifting maximal weight."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294362d"
+  },
+  "word": "Bodybuilding",
+  "meaning": "Xây dựng cơ bắp",
+  "pronunciation": "/ˈbɑː.diˌbɪl.dɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's a competitive bodybuilder."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294362e"
+  },
+  "word": "Crossfit",
+  "meaning": "Crossfit",
+  "pronunciation": "/ˈkrɑːs.fɪt/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's into crossfit training."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294362f"
+  },
+  "word": "Yoga",
+  "meaning": "Yoga",
+  "pronunciation": "/ˈjoʊ.ɡə/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Yoga helps improve flexibility and relaxation."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943630"
+  },
+  "word": "Pilates",
+  "meaning": "Pilates",
+  "pronunciation": "/pɪˈlɑː.t̬iz/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She attends pilates classes twice a week."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943631"
+  },
+  "word": "Aerobics",
+  "meaning": "Aerobic",
+  "pronunciation": "/ˌer.oʊˈbɪks/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's taking aerobics classes to improve her fitness."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943632"
+  },
+  "word": "Zumba",
+  "meaning": "Zumba",
+  "pronunciation": "/ˈzuːm.bə/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're dancing zumba for exercise."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943633"
+  },
+  "word": "Dance",
+  "meaning": "Nhảy múa",
+  "pronunciation": "/dæns/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's passionate about dance."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943634"
+  },
+  "word": "Ballet",
+  "meaning": "Múa ba lê",
+  "pronunciation": "/ˈbæl.eɪ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's been studying ballet since she was a child."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943635"
+  },
+  "word": "Ballroom dancing",
+  "meaning": "Nhảy múa đám cưới",
+  "pronunciation": "/ˈbɔːlˌruːm ˈdæn.sɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're taking ballroom dancing lessons for their wedding."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943636"
+  },
+  "word": "Salsa",
+  "meaning": "Nhảy sả xô",
+  "pronunciation": "/ˈsɑːl.sə/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're learning to salsa dance."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943637"
+  },
+  "word": "Tango",
+  "meaning": "Nhảy tango",
+  "pronunciation": "/ˈtæŋ.ɡoʊ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're practicing the tango for the competition."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943638"
+  },
+  "word": "Breakdancing",
+  "meaning": "Breakdance",
+  "pronunciation": "/ˈbreɪkˌdænsɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Breakdancing requires agility and creativity."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943639"
+  },
+  "word": "Capoeira",
+  "meaning": "Capoeira",
+  "pronunciation": "/ˌkæp.oʊˈwɛr.ə/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's been practicing capoeira for years."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294363a"
+  },
+  "word": "Parkour",
+  "meaning": "Parkour",
+  "pronunciation": "/pɑːrˈkʊr/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're doing parkour stunts in the city."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294363b"
+  },
+  "word": "Free running",
+  "meaning": "Free running",
+  "pronunciation": "/friː ˈrʌn.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's a skilled free runner."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294363c"
+  },
+  "word": "Rock climbing",
+  "meaning": "Leo núi",
+  "pronunciation": "/rɑk ˈklaɪ.mɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Rock climbing requires strength and technique."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294363d"
+  },
+  "word": "Mountaineering",
+  "meaning": "Leo núi",
+  "pronunciation": "/ˌmaʊn.təˈnɪr.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Mountaineering is an adventurous sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294363e"
+  },
+  "word": "Trail running",
+  "meaning": "Chạy đường mòn",
+  "pronunciation": "/treɪl ˈrʌnɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They enjoy trail running in the mountains."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e9309294363f"
+  },
+  "word": "Ultramarathon",
+  "meaning": "Siêu Marathon",
+  "pronunciation": "/ˌʌl.trəˈmær.əˌθɑːn/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "He's training for an ultramarathon."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943640"
+  },
+  "word": "Orienteering",
+  "meaning": "Thể thao định hướng",
+  "pronunciation": "/ˌɔːr.iːənˈtɪr.ɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Orienteering requires map reading skills."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943641"
+  },
+  "word": "Adventure racing",
+  "meaning": "Đua mạo hiểm",
+  "pronunciation": "/ədˈvɛn.tʃər ˈreɪ.sɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Adventure racing includes various outdoor activities."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943642"
+  },
+  "word": "Cross-country skiing",
+  "meaning": "Trượt tuyết đường dài",
+  "pronunciation": "/ˈkrɔsˌkʌn.tri ˈskiːɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "They're going cross-country skiing in the forest."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943643"
+  },
+  "word": "Freestyle skiing",
+  "meaning": "Trượt tuyết tự do",
+  "pronunciation": "/ˈfriː.staɪl ˈskiːɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Freestyle skiing includes jumps and tricks."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943644"
+  },
+  "word": "Ski jumping",
+  "meaning": "Trượt tuyết nhảy dài",
+  "pronunciation": "/ˈskiː ˈdʒʌmpɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Ski jumping is a thrilling winter sport."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943645"
+  },
+  "word": "Speed skating",
+  "meaning": "Trượt băng tốc độ",
+  "pronunciation": "/ˈspiːd ˈskeɪ.tɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "Speed skating requires skill and endurance."
+},
+{
+  "_id": {
+    "$oid": "66092f0c1e73e93092943646"
+  },
+  "word": "Figure skating",
+  "meaning": "Trượt băng nghệ thuật",
+  "pronunciation": "/ˈfɪɡ.jər ˈskeɪ.tɪŋ/",
+  "word_type": "Noun",
+  "topic": "Sport",
+  "example_sentence": "She's training for figure skating competitions."
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943648"
+  },
+  "word": "Struggle",
+  "meaning": "Cuộc chiến đấu",
+  "pronunciation": "/ˈstrʌɡ.əl/",
+  "word_type": "Noun",
+  "example_sentence": "Life is a constant struggle for many people.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943649"
+  },
+  "word": "Adventure",
+  "meaning": "Cuộc phiêu lưu",
+  "pronunciation": "/ədˈvɛn.tʃər/",
+  "word_type": "Noun",
+  "example_sentence": "She seeks adventure wherever she goes.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294364a"
+  },
+  "word": "Explore",
+  "meaning": "Khám phá",
+  "pronunciation": "/ɪkˈsplɔːr/",
+  "word_type": "Verb",
+  "example_sentence": "They love to explore new places.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294364b"
+  },
+  "word": "Discover",
+  "meaning": "Khám phá",
+  "pronunciation": "/dɪˈskʌv.ər/",
+  "word_type": "Verb",
+  "example_sentence": "He discovered his passion for painting at a young age.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294364c"
+  },
+  "word": "Growth",
+  "meaning": "Sự phát triển",
+  "pronunciation": "/ɡroʊθ/",
+  "word_type": "Noun",
+  "example_sentence": "Personal growth is essential for a fulfilling life.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294364d"
+  },
+  "word": "Change",
+  "meaning": "Sự thay đổi",
+  "pronunciation": "/tʃeɪndʒ/",
+  "word_type": "Noun",
+  "example_sentence": "Change is the only constant in life.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294364e"
+  },
+  "word": "Adapt",
+  "meaning": "Thích nghi",
+  "pronunciation": "/əˈdæpt/",
+  "word_type": "Verb",
+  "example_sentence": "She learned to adapt to different cultures.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294364f"
+  },
+  "word": "Survival",
+  "meaning": "Sự sống sót",
+  "pronunciation": "/sərˈvaɪ.vəl/",
+  "word_type": "Noun",
+  "example_sentence": "Survival instincts kicked in during the crisis.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943650"
+  },
+  "word": "Cherish",
+  "meaning": "Trân trọng",
+  "pronunciation": "/ˈtʃer.ɪʃ/",
+  "word_type": "Verb",
+  "example_sentence": "She cherishes every moment spent with her family.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943651"
+  },
+  "word": "Experience",
+  "meaning": "Kinh nghiệm",
+  "pronunciation": "/ɪkˈspɪr.i.əns/",
+  "word_type": "Noun",
+  "example_sentence": "Traveling provides valuable life experiences.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943652"
+  },
+  "word": "Reflect",
+  "meaning": "Phản chiếu",
+  "pronunciation": "/rɪˈflɛkt/",
+  "word_type": "Verb",
+  "example_sentence": "She took a moment to reflect on her choices.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943653"
+  },
+  "word": "Memories",
+  "meaning": "Kí ức",
+  "pronunciation": "/ˈmem.ər.i/",
+  "word_type": "Noun",
+  "example_sentence": "Creating memories with loved ones is priceless.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943654"
+  },
+  "word": "Legacy",
+  "meaning": "Di sản",
+  "pronunciation": "/ˈleɡ.ə.si/",
+  "word_type": "Noun",
+  "example_sentence": "He hopes to leave behind a positive legacy.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943655"
+  },
+  "word": "Balance",
+  "meaning": "Sự cân bằng",
+  "pronunciation": "/ˈbæl.əns/",
+  "word_type": "Noun",
+  "example_sentence": "Finding balance is key to a healthy life.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943656"
+  },
+  "word": "Fulfillment",
+  "meaning": "Sự thỏa mãn",
+  "pronunciation": "/fʊlˈfɪl.mənt/",
+  "word_type": "Noun",
+  "example_sentence": "She found fulfillment in her career.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943657"
+  },
+  "word": "Purposeful",
+  "meaning": "Có mục đích",
+  "pronunciation": "/ˈpɜːrpəsfʊl/",
+  "word_type": "Adjective",
+  "example_sentence": "Living a purposeful life brings contentment.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943658"
+  },
+  "word": "Gratitude",
+  "meaning": "Lòng biết ơn",
+  "pronunciation": "/ˈɡræt̬.ə.tud/",
+  "word_type": "Noun",
+  "example_sentence": "Expressing gratitude improves mental well-being.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943659"
+  },
+  "word": "Contentment",
+  "meaning": "Sự hài lòng",
+  "pronunciation": "/kənˈtent.mənt/",
+  "word_type": "Noun",
+  "example_sentence": "He found contentment in simple pleasures.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294365a"
+  },
+  "word": "Resilience",
+  "meaning": "Sức bền vững",
+  "pronunciation": "/rɪˈzɪl.jəns/",
+  "word_type": "Noun",
+  "example_sentence": "Resilience is the ability to bounce back from adversity.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294365b"
+  },
+  "word": "Opportunity",
+  "meaning": "Cơ hội",
+  "pronunciation": "/ˌɑː.pɚˈtuː.nə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Every challenge is an opportunity for growth.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294365c"
+  },
+  "word": "Courage",
+  "meaning": "Can đảm",
+  "pronunciation": "/ˈkɝː.ɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "It takes courage to pursue your dreams.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294365d"
+  },
+  "word": "Strength",
+  "meaning": "Sức mạnh",
+  "pronunciation": "/streŋkθ/",
+  "word_type": "Noun",
+  "example_sentence": "She drew strength from her inner resilience.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294365e"
+  },
+  "word": "Acceptance",
+  "meaning": "Sự chấp nhận",
+  "pronunciation": "/əkˈsept.əns/",
+  "word_type": "Noun",
+  "example_sentence": "Finding acceptance in difficult situations is liberating.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294365f"
+  },
+  "word": "Inspiration",
+  "meaning": "Sự truyền cảm hứng",
+  "pronunciation": "/ˌɪn.spɪˈreɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Her story is an inspiration to many.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943660"
+  },
+  "word": "Determination",
+  "meaning": "Quyết tâm",
+  "pronunciation": "/dɪˌtɜːr.məˈneɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "With determination, anything is possible.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943661"
+  },
+  "word": "Ambition",
+  "meaning": "Hoài bão",
+  "pronunciation": "/æmˈbɪʃ.ən/",
+  "word_type": "Noun",
+  "example_sentence": "Her ambition knows no bounds.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943662"
+  },
+  "word": "Simplicity",
+  "meaning": "Sự đơn giản",
+  "pronunciation": "/sɪmˈplɪs.ə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Simplicity is the ultimate sophistication.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943663"
+  },
+  "word": "Innovation",
+  "meaning": "Sự đổi mới",
+  "pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Innovation drives progress in society.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943664"
+  },
+  "word": "Self-discovery",
+  "meaning": "Tự khám phá",
+  "pronunciation": "/sɛlf dɪˈskʌvəri/",
+  "word_type": "Noun",
+  "example_sentence": "Traveling often leads to self-discovery.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943665"
+  },
+  "word": "Patience",
+  "meaning": "Kiên nhẫn",
+  "pronunciation": "/ˈpeɪ.ʃəns/",
+  "word_type": "Noun",
+  "example_sentence": "Patience is a virtue.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943666"
+  },
+  "word": "Gratitude",
+  "meaning": "Lòng biết ơn",
+  "pronunciation": "/ˈɡræt̬.ə.tud/",
+  "word_type": "Noun",
+  "example_sentence": "Expressing gratitude improves mental well-being.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943667"
+  },
+  "word": "Contentment",
+  "meaning": "Sự hài lòng",
+  "pronunciation": "/kənˈtent.mənt/",
+  "word_type": "Noun",
+  "example_sentence": "He found contentment in simple pleasures.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943668"
+  },
+  "word": "Resilience",
+  "meaning": "Sức bền vững",
+  "pronunciation": "/rɪˈzɪl.jəns/",
+  "word_type": "Noun",
+  "example_sentence": "Resilience is the ability to bounce back from adversity.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943669"
+  },
+  "word": "Opportunity",
+  "meaning": "Cơ hội",
+  "pronunciation": "/ˌɑː.pɚˈtuː.nə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Every challenge is an opportunity for growth.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294366a"
+  },
+  "word": "Courage",
+  "meaning": "Can đảm",
+  "pronunciation": "/ˈkɝː.ɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "It takes courage to pursue your dreams.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294366b"
+  },
+  "word": "Strength",
+  "meaning": "Sức mạnh",
+  "pronunciation": "/streŋkθ/",
+  "word_type": "Noun",
+  "example_sentence": "She drew strength from her inner resilience.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294366c"
+  },
+  "word": "Acceptance",
+  "meaning": "Sự chấp nhận",
+  "pronunciation": "/əkˈsept.əns/",
+  "word_type": "Noun",
+  "example_sentence": "Finding acceptance in difficult situations is liberating.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294366d"
+  },
+  "word": "Inspiration",
+  "meaning": "Sự truyền cảm hứng",
+  "pronunciation": "/ˌɪn.spɪˈreɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Her story is an inspiration to many.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294366e"
+  },
+  "word": "Determination",
+  "meaning": "Quyết tâm",
+  "pronunciation": "/dɪˌtɜːr.məˈneɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "With determination, anything is possible.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294366f"
+  },
+  "word": "Ambition",
+  "meaning": "Hoài bão",
+  "pronunciation": "/æmˈbɪʃ.ən/",
+  "word_type": "Noun",
+  "example_sentence": "Her ambition knows no bounds.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943670"
+  },
+  "word": "Simplicity",
+  "meaning": "Sự đơn giản",
+  "pronunciation": "/sɪmˈplɪs.ə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Simplicity is the ultimate sophistication.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943671"
+  },
+  "word": "Innovation",
+  "meaning": "Sự đổi mới",
+  "pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Innovation drives progress in society.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943672"
+  },
+  "word": "Self-discovery",
+  "meaning": "Tự khám phá",
+  "pronunciation": "/sɛlf dɪˈskʌvəri/",
+  "word_type": "Noun",
+  "example_sentence": "Traveling often leads to self-discovery.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943673"
+  },
+  "word": "Patience",
+  "meaning": "Kiên nhẫn",
+  "pronunciation": "/ˈpeɪ.ʃəns/",
+  "word_type": "Noun",
+  "example_sentence": "Patience is a virtue.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943674"
+  },
+  "word": "Respect",
+  "meaning": "Tôn trọng",
+  "pronunciation": "/rɪˈspɛkt/",
+  "word_type": "Noun",
+  "example_sentence": "Mutual respect is essential in relationships.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943675"
+  },
+  "word": "Forgiveness",
+  "meaning": "Sự tha thứ",
+  "pronunciation": "/fərˈɡɪv.nɪs/",
+  "word_type": "Noun",
+  "example_sentence": "Forgiveness is a gift you give yourself.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943676"
+  },
+  "word": "Kindness",
+  "meaning": "Lòng tốt",
+  "pronunciation": "/ˈkaɪnd.nəs/",
+  "word_type": "Noun",
+  "example_sentence": "Kindness can change someone's day.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943677"
+  },
+  "word": "Generosity",
+  "meaning": "Sự hào phóng",
+  "pronunciation": "/ˌdʒɛn.əˈrɑː.sə.ti/",
+  "word_type": "Noun",
+  "example_sentence": "His generosity knew no bounds.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943678"
+  },
+  "word": "Compassion",
+  "meaning": "Tình thương",
+  "pronunciation": "/kəmˈpæʃ.ən/",
+  "word_type": "Noun",
+  "example_sentence": "Compassion is understanding in action.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943679"
+  },
+  "word": "Empathy",
+  "meaning": "Sự đồng cảm",
+  "pronunciation": "/ˈem.pə.θi/",
+  "word_type": "Noun",
+  "example_sentence": "Empathy allows us to connect with others.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294367a"
+  },
+  "word": "Gratitude",
+  "meaning": "Lòng biết ơn",
+  "pronunciation": "/ˈɡræt̬.ə.tud/",
+  "word_type": "Noun",
+  "example_sentence": "Expressing gratitude improves mental well-being.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294367b"
+  },
+  "word": "Contentment",
+  "meaning": "Sự hài lòng",
+  "pronunciation": "/kənˈtent.mənt/",
+  "word_type": "Noun",
+  "example_sentence": "He found contentment in simple pleasures.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294367c"
+  },
+  "word": "Resilience",
+  "meaning": "Sức bền vững",
+  "pronunciation": "/rɪˈzɪl.jəns/",
+  "word_type": "Noun",
+  "example_sentence": "Resilience is the ability to bounce back from adversity.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294367d"
+  },
+  "word": "Opportunity",
+  "meaning": "Cơ hội",
+  "pronunciation": "/ˌɑː.pɚˈtuː.nə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Every challenge is an opportunity for growth.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294367e"
+  },
+  "word": "Courage",
+  "meaning": "Can đảm",
+  "pronunciation": "/ˈkɝː.ɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "It takes courage to pursue your dreams.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294367f"
+  },
+  "word": "Strength",
+  "meaning": "Sức mạnh",
+  "pronunciation": "/streŋkθ/",
+  "word_type": "Noun",
+  "example_sentence": "She drew strength from her inner resilience.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943680"
+  },
+  "word": "Acceptance",
+  "meaning": "Sự chấp nhận",
+  "pronunciation": "/əkˈsept.əns/",
+  "word_type": "Noun",
+  "example_sentence": "Finding acceptance in difficult situations is liberating.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943681"
+  },
+  "word": "Inspiration",
+  "meaning": "Sự truyền cảm hứng",
+  "pronunciation": "/ˌɪn.spɪˈreɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Her story is an inspiration to many.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943682"
+  },
+  "word": "Determination",
+  "meaning": "Quyết tâm",
+  "pronunciation": "/dɪˌtɜːr.məˈneɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "With determination, anything is possible.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943683"
+  },
+  "word": "Ambition",
+  "meaning": "Hoài bão",
+  "pronunciation": "/æmˈbɪʃ.ən/",
+  "word_type": "Noun",
+  "example_sentence": "Her ambition knows no bounds.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943684"
+  },
+  "word": "Simplicity",
+  "meaning": "Sự đơn giản",
+  "pronunciation": "/sɪmˈplɪs.ə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Simplicity is the ultimate sophistication.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943685"
+  },
+  "word": "Innovation",
+  "meaning": "Sự đổi mới",
+  "pronunciation": "/ˌɪn.əˈveɪ.ʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Innovation drives progress in society.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943686"
+  },
+  "word": "Self-discovery",
+  "meaning": "Tự khám phá",
+  "pronunciation": "/sɛlf dɪˈskʌvəri/",
+  "word_type": "Noun",
+  "example_sentence": "Traveling often leads to self-discovery.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943687"
+  },
+  "word": "Patience",
+  "meaning": "Kiên nhẫn",
+  "pronunciation": "/ˈpeɪ.ʃəns/",
+  "word_type": "Noun",
+  "example_sentence": "Patience is a virtue.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943688"
+  },
+  "word": "Respect",
+  "meaning": "Tôn trọng",
+  "pronunciation": "/rɪˈspɛkt/",
+  "word_type": "Noun",
+  "example_sentence": "Mutual respect is essential in relationships.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e93092943689"
+  },
+  "word": "Forgiveness",
+  "meaning": "Sự tha thứ",
+  "pronunciation": "/fərˈɡɪv.nɪs/",
+  "word_type": "Noun",
+  "example_sentence": "Forgiveness is a gift you give yourself.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294368a"
+  },
+  "word": "Kindness",
+  "meaning": "Lòng tốt",
+  "pronunciation": "/ˈkaɪnd.nəs/",
+  "word_type": "Noun",
+  "example_sentence": "Kindness can change someone's day.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294368b"
+  },
+  "word": "Generosity",
+  "meaning": "Sự hào phóng",
+  "pronunciation": "/ˌdʒɛn.əˈrɑː.sə.ti/",
+  "word_type": "Noun",
+  "example_sentence": "His generosity knew no bounds.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294368c"
+  },
+  "word": "Compassion",
+  "meaning": "Tình thương",
+  "pronunciation": "/kəmˈpæʃ.ən/",
+  "word_type": "Noun",
+  "example_sentence": "Compassion is understanding in action.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609304a1e73e9309294368d"
+  },
+  "word": "Empathy",
+  "meaning": "Sự đồng cảm",
+  "pronunciation": "/ˈem.pə.θi/",
+  "word_type": "Noun",
+  "example_sentence": "Empathy allows us to connect with others.",
+  "topic": "Life"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294368e"
+  },
+  "word": "Athlete",
+  "meaning": "Vận động viên",
+  "pronunciation": "/ˈæθ.liːt/",
+  "word_type": "Noun",
+  "example_sentence": "The athlete broke the world record.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294368f"
+  },
+  "word": "Competition",
+  "meaning": "Cuộc thi",
+  "pronunciation": "/ˌkɑːm.pəˈtɪʃ.ən/",
+  "word_type": "Noun",
+  "example_sentence": "She trained hard for the upcoming competition.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943690"
+  },
+  "word": "Victory",
+  "meaning": "Thắng lợi",
+  "pronunciation": "/ˈvɪk.tər.i/",
+  "word_type": "Noun",
+  "example_sentence": "Their team celebrated their victory.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943691"
+  },
+  "word": "Defeat",
+  "meaning": "Thất bại",
+  "pronunciation": "/dɪˈfiːt/",
+  "word_type": "Noun",
+  "example_sentence": "They were disappointed by their defeat.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943692"
+  },
+  "word": "Champion",
+  "meaning": "Nhà vô địch",
+  "pronunciation": "/ˈtʃæm.pi.ən/",
+  "word_type": "Noun",
+  "example_sentence": "He is a former world champion.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943693"
+  },
+  "word": "Training",
+  "meaning": "Huấn luyện",
+  "pronunciation": "/ˈtreɪ.nɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "The team's training session starts early in the morning.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943694"
+  },
+  "word": "Practice",
+  "meaning": "Tập luyện",
+  "pronunciation": "/ˈpræk.tɪs/",
+  "word_type": "Noun",
+  "example_sentence": "She puts in hours of practice every day.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943695"
+  },
+  "word": "Exercise",
+  "meaning": "Tập thể dục",
+  "pronunciation": "/ˈek.sə.saɪz/",
+  "word_type": "Noun",
+  "example_sentence": "Regular exercise is important for maintaining good health.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943696"
+  },
+  "word": "Strength",
+  "meaning": "Sức mạnh",
+  "pronunciation": "/streŋkθ/",
+  "word_type": "Noun",
+  "example_sentence": "His strength lies in his determination.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943697"
+  },
+  "word": "Endurance",
+  "meaning": "Sức chịu đựng",
+  "pronunciation": "/ɪnˈdʊr.əns/",
+  "word_type": "Noun",
+  "example_sentence": "The marathon tested her endurance.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943698"
+  },
+  "word": "Skill",
+  "meaning": "Kỹ năng",
+  "pronunciation": "/skɪl/",
+  "word_type": "Noun",
+  "example_sentence": "He demonstrated exceptional skill on the basketball court.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e93092943699"
+  },
+  "word": "Teamwork",
+  "meaning": "Làm việc nhóm",
+  "pronunciation": "/ˈtiːm.wɝːk/",
+  "word_type": "Noun",
+  "example_sentence": "Teamwork is crucial for success in team sports.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294369a"
+  },
+  "word": "Strategy",
+  "meaning": "Chiến lược",
+  "pronunciation": "/ˈstræt̬.ə.dʒi/",
+  "word_type": "Noun",
+  "example_sentence": "The team devised a new strategy for the game.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294369b"
+  },
+  "word": "Tactic",
+  "meaning": "Chiến thuật",
+  "pronunciation": "/ˈtæk.tɪk/",
+  "word_type": "Noun",
+  "example_sentence": "The coach implemented a clever tactic to surprise the opponents.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294369c"
+  },
+  "word": "Coach",
+  "meaning": "Huấn luyện viên",
+  "pronunciation": "/koʊtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "The coach motivated his team before the match.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294369d"
+  },
+  "word": "Referee",
+  "meaning": "Trọng tài",
+  "pronunciation": "/ˌref.əˈriː/",
+  "word_type": "Noun",
+  "example_sentence": "The referee blew the whistle to signal the end of the game.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294369e"
+  },
+  "word": "Stadium",
+  "meaning": "Sân vận động",
+  "pronunciation": "/ˈsteɪ.di.əm/",
+  "word_type": "Noun",
+  "example_sentence": "Thousands of fans filled the stadium to watch the match.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e9309294369f"
+  },
+  "word": "Equipment",
+  "meaning": "Trang thiết bị",
+  "pronunciation": "/ɪˈkwɪp.mənt/",
+  "word_type": "Noun",
+  "example_sentence": "He checked his equipment before the race.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a0"
+  },
+  "word": "Uniform",
+  "meaning": "Đồng phục",
+  "pronunciation": "/ˈjuː.nə.fɔːrm/",
+  "word_type": "Noun",
+  "example_sentence": "The team wore matching uniforms.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a1"
+  },
+  "word": "Athletic",
+  "meaning": "Có phẩm chất vận động",
+  "pronunciation": "/æθˈlet.ɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She has a strong and athletic build.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a2"
+  },
+  "word": "Agility",
+  "meaning": "Sự nhanh nhẹn",
+  "pronunciation": "/əˈdʒɪl.ə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Her agility on the field impressed everyone.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a3"
+  },
+  "word": "Speed",
+  "meaning": "Tốc độ",
+  "pronunciation": "/spiːd/",
+  "word_type": "Noun",
+  "example_sentence": "He sprinted with incredible speed.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a4"
+  },
+  "word": "Power",
+  "meaning": "Sức mạnh",
+  "pronunciation": "/ˈpaʊ.ɚ/",
+  "word_type": "Noun",
+  "example_sentence": "The boxer delivered a powerful punch.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a5"
+  },
+  "word": "Fitness",
+  "meaning": "Sự khỏe mạnh",
+  "pronunciation": "/ˈfɪt.nəs/",
+  "word_type": "Noun",
+  "example_sentence": "Regular exercise improves overall fitness.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a6"
+  },
+  "word": "Flexibility",
+  "meaning": "Sự linh hoạt",
+  "pronunciation": "/ˌfleks.əˈbɪl.ə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "Yoga helps improve flexibility.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a7"
+  },
+  "word": "Intensity",
+  "meaning": "Cường độ",
+  "pronunciation": "/ɪnˈten.sə.t̬i/",
+  "word_type": "Noun",
+  "example_sentence": "The intensity of the game kept everyone on the edge of their seats.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a8"
+  },
+  "word": "Adrenaline",
+  "meaning": "Hormon adrenaline",
+  "pronunciation": "/əˈdren.ə.lɪn/",
+  "word_type": "Noun",
+  "example_sentence": "The rush of adrenaline pumped through his veins during the race.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436a9"
+  },
+  "word": "Competitive",
+  "meaning": "Có tính cạnh tranh",
+  "pronunciation": "/kəmˈpet̬.ə.t̬ɪv/",
+  "word_type": "Adjective",
+  "example_sentence": "She has a fiercely competitive spirit.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436aa"
+  },
+  "word": "Foul",
+  "meaning": "Vi phạm",
+  "pronunciation": "/faʊl/",
+  "word_type": "Noun",
+  "example_sentence": "The referee called a foul on the player.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ab"
+  },
+  "word": "Score",
+  "meaning": "Ghi bàn",
+  "pronunciation": "/skɔːr/",
+  "word_type": "Verb",
+  "example_sentence": "He scored the winning goal in the last minute.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ac"
+  },
+  "word": "Defend",
+  "meaning": "Bảo vệ",
+  "pronunciation": "/dɪˈfend/",
+  "word_type": "Verb",
+  "example_sentence": "The team must defend their title this season.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ad"
+  },
+  "word": "Attack",
+  "meaning": "Tấn công",
+  "pronunciation": "/əˈtæk/",
+  "word_type": "Verb",
+  "example_sentence": "The team attacked relentlessly throughout the game.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ae"
+  },
+  "word": "Support",
+  "meaning": "Ủng hộ",
+  "pronunciation": "/səˈpɔːrt/",
+  "word_type": "Verb",
+  "example_sentence": "Fans gathered to support their team.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436af"
+  },
+  "word": "Compete",
+  "meaning": "Tham gia thi đấu",
+  "pronunciation": "/kəmˈpiːt/",
+  "word_type": "Verb",
+  "example_sentence": "They will compete in the championship next week.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b0"
+  },
+  "word": "Train",
+  "meaning": "Huấn luyện",
+  "pronunciation": "/treɪn/",
+  "word_type": "Verb",
+  "example_sentence": "The athletes train rigorously for the upcoming event.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b1"
+  },
+  "word": "Achieve",
+  "meaning": "Đạt được",
+  "pronunciation": "/əˈtʃiːv/",
+  "word_type": "Verb",
+  "example_sentence": "She achieved her personal best in the race.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b2"
+  },
+  "word": "Challenge",
+  "meaning": "Thách thức",
+  "pronunciation": "/ˈtʃæl.ɪndʒ/",
+  "word_type": "Noun",
+  "example_sentence": "Overcoming challenges makes victory sweeter.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b3"
+  },
+  "word": "Competitor",
+  "meaning": "Đối thủ",
+  "pronunciation": "/kəmˈpet̬.ə.t̬ɚ/",
+  "word_type": "Noun",
+  "example_sentence": "He respected his competitors but never underestimated them.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b4"
+  },
+  "word": "Fan",
+  "meaning": "Người hâm mộ",
+  "pronunciation": "/fæn/",
+  "word_type": "Noun",
+  "example_sentence": "The stadium was filled with passionate fans cheering for their team.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b5"
+  },
+  "word": "Team",
+  "meaning": "Đội",
+  "pronunciation": "/tiːm/",
+  "word_type": "Noun",
+  "example_sentence": "The team worked together to achieve victory.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b6"
+  },
+  "word": "League",
+  "meaning": "Hạng",
+  "pronunciation": "/liːɡ/",
+  "word_type": "Noun",
+  "example_sentence": "Their team is at the top of the league.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b7"
+  },
+  "word": "Match",
+  "meaning": "Trận đấu",
+  "pronunciation": "/mætʃ/",
+  "word_type": "Noun",
+  "example_sentence": "The match ended in a draw.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b8"
+  },
+  "word": "Olympics",
+  "meaning": "Thế vận hội",
+  "pronunciation": "/oʊˈlɪmpɪks/",
+  "word_type": "Noun",
+  "example_sentence": "She dreams of competing in the Olympics.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436b9"
+  },
+  "word": "Spectator",
+  "meaning": "Người xem",
+  "pronunciation": "/ˈspek.teɪ.t̬ɚ/",
+  "word_type": "Noun",
+  "example_sentence": "The spectators cheered loudly from the stands.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ba"
+  },
+  "word": "Scoreboard",
+  "meaning": "Bảng điểm",
+  "pronunciation": "/ˈskɔːr.bɔːrd/",
+  "word_type": "Noun",
+  "example_sentence": "The scoreboard showed the team's current score.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436bb"
+  },
+  "word": "Championship",
+  "meaning": "Giải vô địch",
+  "pronunciation": "/ˈtʃæm.pi.ən.ʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "They won the championship last year.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436bc"
+  },
+  "word": "Medal",
+  "meaning": "Huy chương",
+  "pronunciation": "/ˈmed.əl/",
+  "word_type": "Noun",
+  "example_sentence": "She won a gold medal in the swimming competition.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436bd"
+  },
+  "word": "Record",
+  "meaning": "Kỷ lục",
+  "pronunciation": "/ˈrek.ɚd/",
+  "word_type": "Noun",
+  "example_sentence": "He broke the world record for the 100m sprint.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436be"
+  },
+  "word": "Trophy",
+  "meaning": "Cúp",
+  "pronunciation": "/ˈtroʊ.fi/",
+  "word_type": "Noun",
+  "example_sentence": "The team proudly displayed their championship trophy.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436bf"
+  },
+  "word": "Athleticism",
+  "meaning": "Tính năng động",
+  "pronunciation": "/ˌæθ.ləˈtɪ.sɪ.zəm/",
+  "word_type": "Noun",
+  "example_sentence": "His athleticism is unmatched.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c0"
+  },
+  "word": "Challenge",
+  "meaning": "Thách thức",
+  "pronunciation": "/ˈtʃæl.ɪndʒ/",
+  "word_type": "Verb",
+  "example_sentence": "The mountain climber challenged himself to reach the summit.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c1"
+  },
+  "word": "Compete",
+  "meaning": "Tham gia thi đấu",
+  "pronunciation": "/kəmˈpiːt/",
+  "word_type": "Verb",
+  "example_sentence": "The athletes will compete for the gold medal.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c2"
+  },
+  "word": "Achieve",
+  "meaning": "Đạt được",
+  "pronunciation": "/əˈtʃiːv/",
+  "word_type": "Verb",
+  "example_sentence": "She achieved her personal best in the marathon.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c3"
+  },
+  "word": "Train",
+  "meaning": "Huấn luyện",
+  "pronunciation": "/treɪn/",
+  "word_type": "Verb",
+  "example_sentence": "He trained hard for the upcoming competition.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c4"
+  },
+  "word": "Coach",
+  "meaning": "Huấn luyện",
+  "pronunciation": "/koʊtʃ/",
+  "word_type": "Verb",
+  "example_sentence": "The experienced coach coached the team to victory.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c5"
+  },
+  "word": "Referee",
+  "meaning": "Trọng tài",
+  "pronunciation": "/ˌref.əˈriː/",
+  "word_type": "Verb",
+  "example_sentence": "The referee referees the match fairly.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c6"
+  },
+  "word": "Spectate",
+  "meaning": "Xem trận đấu",
+  "pronunciation": "/ˈspek.teɪt/",
+  "word_type": "Verb",
+  "example_sentence": "They spectated the game from the stands.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c7"
+  },
+  "word": "Trainee",
+  "meaning": "Người được huấn luyện",
+  "pronunciation": "/ˌtreɪˈniː/",
+  "word_type": "Noun",
+  "example_sentence": "The trainee learns from experienced athletes.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c8"
+  },
+  "word": "Play",
+  "meaning": "Tham gia thi đấu",
+  "pronunciation": "/pleɪ/",
+  "word_type": "Verb",
+  "example_sentence": "He plays for the national team.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436c9"
+  },
+  "word": "Strategize",
+  "meaning": "Lập chiến lược",
+  "pronunciation": "/ˈstræt̬.əˌdʒaɪz/",
+  "word_type": "Verb",
+  "example_sentence": "They need to strategize carefully for the next game.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ca"
+  },
+  "word": "Warm-up",
+  "meaning": "Khởi động",
+  "pronunciation": "/ˈwɔːrm.ʌp/",
+  "word_type": "Noun",
+  "example_sentence": "The team did some warm-up exercises before the match.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436cb"
+  },
+  "word": "Challenge",
+  "meaning": "Thách thức",
+  "pronunciation": "/ˈtʃæl.ɪndʒ/",
+  "word_type": "Verb",
+  "example_sentence": "The team challenges the reigning champions for the title.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436cc"
+  },
+  "word": "Compete",
+  "meaning": "Tham gia thi đấu",
+  "pronunciation": "/kəmˈpiːt/",
+  "word_type": "Verb",
+  "example_sentence": "The athletes compete against each other for the prize.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436cd"
+  },
+  "word": "Train",
+  "meaning": "Huấn luyện",
+  "pronunciation": "/treɪn/",
+  "word_type": "Verb",
+  "example_sentence": "They train rigorously for the upcoming tournament.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436ce"
+  },
+  "word": "Coach",
+  "meaning": "Huấn luyện",
+  "pronunciation": "/koʊtʃ/",
+  "word_type": "Verb",
+  "example_sentence": "He coaches the team to victory.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436cf"
+  },
+  "word": "Referee",
+  "meaning": "Trọng tài",
+  "pronunciation": "/ˌref.əˈriː/",
+  "word_type": "Verb",
+  "example_sentence": "The referee referees the match with impartiality.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d0"
+  },
+  "word": "Support",
+  "meaning": "Ủng hộ",
+  "pronunciation": "/səˈpɔːrt/",
+  "word_type": "Verb",
+  "example_sentence": "They support their favorite team passionately.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d1"
+  },
+  "word": "Competitive",
+  "meaning": "Có tính cạnh tranh",
+  "pronunciation": "/kəmˈpet̬.ə.t̬ɪv/",
+  "word_type": "Adjective",
+  "example_sentence": "He has a competitive spirit.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d2"
+  },
+  "word": "Active",
+  "meaning": "Hoạt động",
+  "pronunciation": "/ˈæk.tɪv/",
+  "word_type": "Adjective",
+  "example_sentence": "She leads an active lifestyle.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d3"
+  },
+  "word": "Injury",
+  "meaning": "Chấn thương",
+  "pronunciation": "/ˈɪn.dʒər.i/",
+  "word_type": "Noun",
+  "example_sentence": "He suffered a serious injury during the match.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d4"
+  },
+  "word": "Flexible",
+  "meaning": "Linh hoạt",
+  "pronunciation": "/ˈfleksəbl/",
+  "word_type": "Adjective",
+  "example_sentence": "Regular stretching exercises help keep the body flexible.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d5"
+  },
+  "word": "Endurance",
+  "meaning": "Sức chịu đựng",
+  "pronunciation": "/ɪnˈdʊr.əns/",
+  "word_type": "Noun",
+  "example_sentence": "He demonstrated remarkable endurance during the marathon.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d6"
+  },
+  "word": "Intense",
+  "meaning": "Mạnh mẽ",
+  "pronunciation": "/ɪnˈtens/",
+  "word_type": "Adjective",
+  "example_sentence": "The competition was intense.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d7"
+  },
+  "word": "Adrenaline",
+  "meaning": "Hormon adrenaline",
+  "pronunciation": "/əˈdren.ə.lɪn/",
+  "word_type": "Noun",
+  "example_sentence": "The rush of adrenaline heightened his senses.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d8"
+  },
+  "word": "Competitive",
+  "meaning": "Có tính cạnh tranh",
+  "pronunciation": "/kəmˈpet̬.ə.t̬ɪv/",
+  "word_type": "Adjective",
+  "example_sentence": "She has a fiercely competitive nature.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436d9"
+  },
+  "word": "Challenging",
+  "meaning": "Đầy thách thức",
+  "pronunciation": "/ˈtʃæl.ɪndʒ.ɪŋ/",
+  "word_type": "Adjective",
+  "example_sentence": "The course was challenging but rewarding.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436da"
+  },
+  "word": "Physical",
+  "meaning": "Vật lý",
+  "pronunciation": "/ˈfɪz.ɪ.kəl/",
+  "word_type": "Adjective",
+  "example_sentence": "Regular exercise is important for physical health.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436db"
+  },
+  "word": "Tactical",
+  "meaning": "Chiến thuật",
+  "pronunciation": "/ˈtæk.tɪ.kəl/",
+  "word_type": "Adjective",
+  "example_sentence": "They devised a tactical plan to outmaneuver their opponents.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436dc"
+  },
+  "word": "Foul",
+  "meaning": "Phạm luật",
+  "pronunciation": "/faʊl/",
+  "word_type": "Adjective",
+  "example_sentence": "He was penalized for a foul play.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436dd"
+  },
+  "word": "Team",
+  "meaning": "Đội",
+  "pronunciation": "/tiːm/",
+  "word_type": "Noun",
+  "example_sentence": "The team's teamwork was evident in their performance.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436de"
+  },
+  "word": "Athletic",
+  "meaning": "Có phẩm chất vận động",
+  "pronunciation": "/æθˈlet.ɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "The athlete displayed impressive athletic ability.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436df"
+  },
+  "word": "Fittest",
+  "meaning": "Sức khỏe tốt nhất",
+  "pronunciation": "/fɪtɪst/",
+  "word_type": "Adjective",
+  "example_sentence": "Only the fittest athletes can compete at this level.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436e0"
+  },
+  "word": "Competitive",
+  "meaning": "Có tính cạnh tranh",
+  "pronunciation": "/kəmˈpet̬.ə.t̬ɪv/",
+  "word_type": "Adjective",
+  "example_sentence": "The team has a competitive edge over their rivals.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436e1"
+  },
+  "word": "Injury",
+  "meaning": "Chấn thương",
+  "pronunciation": "/ˈɪn.dʒər.i/",
+  "word_type": "Noun",
+  "example_sentence": "He suffered an injury during the game.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436e2"
+  },
+  "word": "Victorious",
+  "meaning": "Thắng lợi",
+  "pronunciation": "/vɪkˈtɔːr.i.əs/",
+  "word_type": "Adjective",
+  "example_sentence": "The victorious team celebrated their win.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436e3"
+  },
+  "word": "Defeated",
+  "meaning": "Thất bại",
+  "pronunciation": "/dɪˈfiːt.ɪd/",
+  "word_type": "Adjective",
+  "example_sentence": "The defeated team left the field disappointed.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436e4"
+  },
+  "word": "Spectacular",
+  "meaning": "Hùng vĩ",
+  "pronunciation": "/spekˈtæk.jə.lɚ/",
+  "word_type": "Adjective",
+  "example_sentence": "The team put on a spectacular performance.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "6609316e1e73e930929436e5"
+  },
+  "word": "Olympic",
+  "meaning": "Thế vận hội",
+  "pronunciation": "/oʊˈlɪmpɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "He dreams of winning an Olympic medal.",
+  "topic": "Sport"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436e6"
+  },
+  "word": "Technology",
+  "meaning": "Công nghệ",
+  "pronunciation": "/tɛkˈnɒlədʒi/",
+  "word_type": "Noun",
+  "example_sentence": "Technology has revolutionized the way we live.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436e7"
+  },
+  "word": "Innovation",
+  "meaning": "Đổi mới",
+  "pronunciation": "/ˌɪnəˈveɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "The company prides itself on its culture of innovation.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436e8"
+  },
+  "word": "Digital",
+  "meaning": "Kỹ thuật số",
+  "pronunciation": "/ˈdɪdʒɪtl/",
+  "word_type": "Adjective",
+  "example_sentence": "We live in a digital age.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436e9"
+  },
+  "word": "Internet",
+  "meaning": "Mạng Internet",
+  "pronunciation": "/ˈɪntərnɛt/",
+  "word_type": "Noun",
+  "example_sentence": "Access to the internet is essential for many daily activities.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436ea"
+  },
+  "word": "Computer",
+  "meaning": "Máy tính",
+  "pronunciation": "/kəmˈpjuːtər/",
+  "word_type": "Noun",
+  "example_sentence": "She works on her computer.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436eb"
+  },
+  "word": "Software",
+  "meaning": "Phần mềm",
+  "pronunciation": "/ˈsɒftwɛːr/",
+  "word_type": "Noun",
+  "example_sentence": "The new software improves efficiency.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436ec"
+  },
+  "word": "Hardware",
+  "meaning": "Phần cứng",
+  "pronunciation": "/ˈhɑːdweər/",
+  "word_type": "Noun",
+  "example_sentence": "The company manufactures computer hardware.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436ed"
+  },
+  "word": "Artificial Intelligence",
+  "meaning": "Trí tuệ nhân tạo",
+  "pronunciation": "/ˌɑːtɪˈfɪʃəl ɪnˈtɛlɪdʒəns/",
+  "word_type": "Noun",
+  "example_sentence": "Artificial intelligence is advancing rapidly.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436ee"
+  },
+  "word": "Robotics",
+  "meaning": "Robot học",
+  "pronunciation": "/rəʊˈbɒtɪks/",
+  "word_type": "Noun",
+  "example_sentence": "The company specializes in robotics.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436ef"
+  },
+  "word": "Automation",
+  "meaning": "Tự động hóa",
+  "pronunciation": "/ˌɔːtəˈmeɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Automation has streamlined many processes.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f0"
+  },
+  "word": "Programming",
+  "meaning": "Lập trình",
+  "pronunciation": "/ˈprəʊɡræmɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "He's studying programming languages.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f1"
+  },
+  "word": "Code",
+  "meaning": "Mã",
+  "pronunciation": "/kəʊd/",
+  "word_type": "Noun",
+  "example_sentence": "The developer wrote clean code.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f2"
+  },
+  "word": "Algorithm",
+  "meaning": "Thuật toán",
+  "pronunciation": "/ˈælɡərɪðəm/",
+  "word_type": "Noun",
+  "example_sentence": "The algorithm predicts user behavior.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f3"
+  },
+  "word": "Encryption",
+  "meaning": "Mã hóa",
+  "pronunciation": "/ɪnˈkrɪpʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Data encryption is crucial for security.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f4"
+  },
+  "word": "Network",
+  "meaning": "Mạng lưới",
+  "pronunciation": "/ˈnɛtwɜːk/",
+  "word_type": "Noun",
+  "example_sentence": "The company has a global network of offices.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f5"
+  },
+  "word": "Wireless",
+  "meaning": "Không dây",
+  "pronunciation": "/ˈwaɪəlɪs/",
+  "word_type": "Adjective",
+  "example_sentence": "The device supports wireless connectivity.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f6"
+  },
+  "word": "Smartphone",
+  "meaning": "Điện thoại thông minh",
+  "pronunciation": "/ˈsmɑːrtˌfəʊn/",
+  "word_type": "Noun",
+  "example_sentence": "She uses her smartphone for everything.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f7"
+  },
+  "word": "Tablet",
+  "meaning": "Máy tính bảng",
+  "pronunciation": "/ˈtæblət/",
+  "word_type": "Noun",
+  "example_sentence": "He reads e-books on his tablet.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f8"
+  },
+  "word": "Gadget",
+  "meaning": "Thiết bị",
+  "pronunciation": "/ˈɡædʒɪt/",
+  "word_type": "Noun",
+  "example_sentence": "The latest gadgets are always in demand.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436f9"
+  },
+  "word": "Virtual Reality",
+  "meaning": "Thực tế ảo",
+  "pronunciation": "/ˈvəːtʃʊəl rɪˈælɪti/",
+  "word_type": "Noun",
+  "example_sentence": "Virtual reality technology is used in gaming.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436fa"
+  },
+  "word": "Augmented Reality",
+  "meaning": "Thực tế ảo",
+  "pronunciation": "/ɔːɡˈmɛntɪd rɪˈælɪti/",
+  "word_type": "Noun",
+  "example_sentence": "Augmented reality enhances the real world with digital information.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436fb"
+  },
+  "word": "Cloud Computing",
+  "meaning": "Máy tính đám mây",
+  "pronunciation": "/klaʊd kəmˈpjuːtɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Cloud computing allows for remote data storage and access.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436fc"
+  },
+  "word": "Cybersecurity",
+  "meaning": "An ninh mạng",
+  "pronunciation": "/ˈsaɪbəˌsɪkjʊərɪti/",
+  "word_type": "Noun",
+  "example_sentence": "Cybersecurity measures protect against online threats.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436fd"
+  },
+  "word": "Biometrics",
+  "meaning": "Nhận dạng sinh học",
+  "pronunciation": "/baɪəʊˈmɛtrɪks/",
+  "word_type": "Noun",
+  "example_sentence": "Biometrics is used for secure authentication.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436fe"
+  },
+  "word": "Data",
+  "meaning": "Dữ liệu",
+  "pronunciation": "/ˈdeɪtə/",
+  "word_type": "Noun",
+  "example_sentence": "The company analyzes large amounts of data.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e930929436ff"
+  },
+  "word": "Analytics",
+  "meaning": "Phân tích số liệu",
+  "pronunciation": "/əˈnælɪtɪks/",
+  "word_type": "Noun",
+  "example_sentence": "Data analytics provides insights into customer behavior.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943700"
+  },
+  "word": "E-commerce",
+  "meaning": "Thương mại điện tử",
+  "pronunciation": "/ˈiːˌkɒmɜːs/",
+  "word_type": "Noun",
+  "example_sentence": "E-commerce has grown rapidly in recent years.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943701"
+  },
+  "word": "Social Media",
+  "meaning": "Mạng xã hội",
+  "pronunciation": "/ˈsəʊʃəl ˈmiːdiə/",
+  "word_type": "Noun",
+  "example_sentence": "She spends a lot of time on social media.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943702"
+  },
+  "word": "Streaming",
+  "meaning": "Truyền dữ liệu trực tuyến",
+  "pronunciation": "/ˈstriːmɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Streaming services have changed how we consume media.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943703"
+  },
+  "word": "Internet of Things",
+  "meaning": "Internet của mọi vật",
+  "pronunciation": "/ˈɪntərˌnɛt əv ˈθɪŋz/",
+  "word_type": "Noun",
+  "example_sentence": "The Internet of Things connects everyday devices to the internet.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943704"
+  },
+  "word": "5G",
+  "meaning": "5G",
+  "pronunciation": "/faɪv dʒiː/",
+  "word_type": "Noun",
+  "example_sentence": "5G technology promises faster internet speeds.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943705"
+  },
+  "word": "Blockchain",
+  "meaning": "Blockchain",
+  "pronunciation": "/ˈblɒktʃeɪn/",
+  "word_type": "Noun",
+  "example_sentence": "Blockchain technology ensures secure and transparent transactions.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943706"
+  },
+  "word": "Cryptocurrency",
+  "meaning": "Tiền điện tử",
+  "pronunciation": "/ˈkrɪptəʊˌkʌrənsi/",
+  "word_type": "Noun",
+  "example_sentence": "Bitcoin is a popular cryptocurrency.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943707"
+  },
+  "word": "Biotechnology",
+  "meaning": "Công nghệ sinh học",
+  "pronunciation": "/ˌbaɪəʊtɛknɒlədʒi/",
+  "word_type": "Noun",
+  "example_sentence": "Biotechnology has applications in medicine and agriculture.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943708"
+  },
+  "word": "Genetic Engineering",
+  "meaning": "Kỹ thuật gen",
+  "pronunciation": "/dʒəˈnɛtɪk ˌɛndʒɪˈnɪərɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Genetic engineering allows for the manipulation of DNA.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943709"
+  },
+  "word": "Renewable Energy",
+  "meaning": "Năng lượng tái tạo",
+  "pronunciation": "/rɪˈnjuːəbl ˈɛnərdʒi/",
+  "word_type": "Noun",
+  "example_sentence": "Renewable energy sources include solar and wind power.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294370a"
+  },
+  "word": "Sustainability",
+  "meaning": "Bền vững",
+  "pronunciation": "/səˌsteɪnəˈbɪlɪti/",
+  "word_type": "Noun",
+  "example_sentence": "The company is committed to sustainability.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294370b"
+  },
+  "word": "Nanotechnology",
+  "meaning": "Công nghệ nano",
+  "pronunciation": "/ˌnænəʊˌtɛknɒlədʒi/",
+  "word_type": "Noun",
+  "example_sentence": "Nanotechnology involves manipulating matter at the molecular level.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294370c"
+  },
+  "word": "Space Exploration",
+  "meaning": "Khám phá không gian",
+  "pronunciation": "/speɪs ˌɛksplɔˈreɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Space exploration pushes the boundaries of human knowledge.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294370d"
+  },
+  "word": "Artificial",
+  "meaning": "Nhân tạo",
+  "pronunciation": "/ˌɑːtɪˈfɪʃəl/",
+  "word_type": "Adjective",
+  "example_sentence": "They are developing artificial intelligence.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294370e"
+  },
+  "word": "Cutting-edge",
+  "meaning": "Tiên tiến",
+  "pronunciation": "/ˌkʌtɪŋ ˈɛdʒ/",
+  "word_type": "Adjective",
+  "example_sentence": "The company is known for its cutting-edge technology.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294370f"
+  },
+  "word": "Revolutionize",
+  "meaning": "Cách mạng hóa",
+  "pronunciation": "/ˌrɛvəˈluːʃəˌnaɪz/",
+  "word_type": "Verb",
+  "example_sentence": "The invention revolutionized the industry.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943710"
+  },
+  "word": "Disruptive",
+  "meaning": "Gây rối",
+  "pronunciation": "/dɪsˈrʌptɪv/",
+  "word_type": "Adjective",
+  "example_sentence": "The technology had a disruptive impact on traditional markets.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943711"
+  },
+  "word": "Efficiency",
+  "meaning": "Hiệu suất",
+  "pronunciation": "/ɪˈfɪʃənsi/",
+  "word_type": "Noun",
+  "example_sentence": "The new system improved efficiency.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943712"
+  },
+  "word": "Integration",
+  "meaning": "Tích hợp",
+  "pronunciation": "/ˌɪntɪˈɡreɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "The software allows for seamless integration with existing systems.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943713"
+  },
+  "word": "Upgrade",
+  "meaning": "Nâng cấp",
+  "pronunciation": "/ˈʌpɡreɪd/",
+  "word_type": "Verb",
+  "example_sentence": "They upgraded their software to the latest version.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943714"
+  },
+  "word": "Cutting-edge",
+  "meaning": "Tiên tiến",
+  "pronunciation": "/ˌkʌtɪŋ ˈɛdʒ/",
+  "word_type": "Adjective",
+  "example_sentence": "The company is at the cutting edge of technology.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943715"
+  },
+  "word": "Interface",
+  "meaning": "Giao diện",
+  "pronunciation": "/ˈɪntəfeɪs/",
+  "word_type": "Noun",
+  "example_sentence": "The new interface is more user-friendly.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943716"
+  },
+  "word": "Cyberspace",
+  "meaning": "Không gian mạng",
+  "pronunciation": "/ˈsaɪbəˌspeɪs/",
+  "word_type": "Noun",
+  "example_sentence": "They met in cyberspace before meeting in person.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943717"
+  },
+  "word": "Peripheral",
+  "meaning": "Thiết bị ngoại vi",
+  "pronunciation": "/pəˈrɪfərəl/",
+  "word_type": "Noun",
+  "example_sentence": "The computer is compatible with many peripherals.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943718"
+  },
+  "word": "Plug and Play",
+  "meaning": "Cắm và chạy",
+  "pronunciation": "/plʌɡ ənd pleɪ/",
+  "word_type": "Adjective",
+  "example_sentence": "The device is plug and play, requiring no additional setup.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943719"
+  },
+  "word": "Algorithm",
+  "meaning": "Thuật toán",
+  "pronunciation": "/ˈælɡərɪðəm/",
+  "word_type": "Noun",
+  "example_sentence": "The algorithm determines the most efficient route.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294371a"
+  },
+  "word": "Backup",
+  "meaning": "Sao lưu",
+  "pronunciation": "/ˈbækʌp/",
+  "word_type": "Noun",
+  "example_sentence": "Make sure to perform regular backups of your data.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294371b"
+  },
+  "word": "Bandwidth",
+  "meaning": "Băng thông",
+  "pronunciation": "/ˈbændwɪdθ/",
+  "word_type": "Noun",
+  "example_sentence": "High bandwidth allows for faster data transfer.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294371c"
+  },
+  "word": "Bug",
+  "meaning": "Lỗi",
+  "pronunciation": "/bʌɡ/",
+  "word_type": "Noun",
+  "example_sentence": "The software update fixed several bugs.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294371d"
+  },
+  "word": "Crash",
+  "meaning": "Sập",
+  "pronunciation": "/kræʃ/",
+  "word_type": "Verb",
+  "example_sentence": "The system crashed due to a power outage.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294371e"
+  },
+  "word": "Debug",
+  "meaning": "Sửa lỗi",
+  "pronunciation": "/diːˈbʌɡ/",
+  "word_type": "Verb",
+  "example_sentence": "The programmer had to debug the code.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e9309294371f"
+  },
+  "word": "Download",
+  "meaning": "Tải về",
+  "pronunciation": "/ˈdaʊnˌloʊd/",
+  "word_type": "Verb",
+  "example_sentence": "He downloaded the file from the internet.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943720"
+  },
+  "word": "Firewall",
+  "meaning": "Tường lửa",
+  "pronunciation": "/ˈfaɪərˌwɔːl/",
+  "word_type": "Noun",
+  "example_sentence": "The firewall protects against unauthorized access.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943721"
+  },
+  "word": "Hardware",
+  "meaning": "Phần cứng",
+  "pronunciation": "/ˈhɑːdweər/",
+  "word_type": "Noun",
+  "example_sentence": "The hardware includes the computer's physical components.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943722"
+  },
+  "word": "Upload",
+  "meaning": "Tải lên",
+  "pronunciation": "/ʌpˈloʊd/",
+  "word_type": "Verb",
+  "example_sentence": "She uploaded the document to the server.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932441e73e93092943723"
+  },
+  "word": "Virus",
+  "meaning": "Vi rút",
+  "pronunciation": "/ˈvaɪrəs/",
+  "word_type": "Noun",
+  "example_sentence": "The antivirus software protects against viruses.",
+  "topic": "Technology"
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943724"
+  },
+  "word": "Biometric",
+  "meaning": "Nhận dạng sinh học",
+  "pronunciation": "/baɪəˈmɛtrɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "The smartphone features biometric security measures."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943725"
+  },
+  "word": "Data Mining",
+  "meaning": "Khai thác dữ liệu",
+  "pronunciation": "/ˈdeɪtə ˈmaɪnɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Data mining is used to discover patterns in large datasets."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943726"
+  },
+  "word": "Driverless",
+  "meaning": "Không người lái",
+  "pronunciation": "/ˈdraɪvrləs/",
+  "word_type": "Adjective",
+  "example_sentence": "Driverless cars are becoming more common on the roads."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943727"
+  },
+  "word": "Drones",
+  "meaning": "Máy bay không người lái",
+  "pronunciation": "/droʊnz/",
+  "word_type": "Noun",
+  "example_sentence": "Drones are used for aerial photography and surveillance."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943728"
+  },
+  "word": "Firmware",
+  "meaning": "Phần mềm nền",
+  "pronunciation": "/ˈfɜːrmweər/",
+  "word_type": "Noun",
+  "example_sentence": "The device's firmware needs to be updated regularly."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943729"
+  },
+  "word": "Geolocation",
+  "meaning": "Vị trí địa lý",
+  "pronunciation": "/ˌdʒiːəʊləˈkeɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Geolocation services help users find nearby businesses."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294372a"
+  },
+  "word": "Hologram",
+  "meaning": "Hình ảnh 3D",
+  "pronunciation": "/ˈhɒləɡræm/",
+  "word_type": "Noun",
+  "example_sentence": "The presentation featured a hologram of the product."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294372b"
+  },
+  "word": "Microchip",
+  "meaning": "Vi xử lý",
+  "pronunciation": "/ˈmaɪkrəʊtʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "The microchip is embedded in the device."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294372c"
+  },
+  "word": "Nanobot",
+  "meaning": "Nano robot",
+  "pronunciation": "/ˈnænəʊbɒt/",
+  "word_type": "Noun",
+  "example_sentence": "Nanobots are used for targeted drug delivery."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294372d"
+  },
+  "word": "Open Source",
+  "meaning": "Mã nguồn mở",
+  "pronunciation": "/ˈoʊpən sɔrs/",
+  "word_type": "Adjective",
+  "example_sentence": "The software is distributed under an open-source license."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294372e"
+  },
+  "word": "Quantum Computing",
+  "meaning": "Máy tính lượng tử",
+  "pronunciation": "/ˈkwɒntəm kəmˈpjuːtɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Quantum computing has the potential to revolutionize data processing."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294372f"
+  },
+  "word": "Robotics",
+  "meaning": "Robot học",
+  "pronunciation": "/roʊˈbɑːtɪks/",
+  "word_type": "Noun",
+  "example_sentence": "Robotics technology is used in manufacturing."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943730"
+  },
+  "word": "Simulation",
+  "meaning": "Mô phỏng",
+  "pronunciation": "/ˌsɪmjʊˈleɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Flight simulators provide realistic training for pilots."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943731"
+  },
+  "word": "Telecommunications",
+  "meaning": "Viễn thông",
+  "pronunciation": "/ˌtelɪkəˌmjuːnɪˈkeɪʃənz/",
+  "word_type": "Noun",
+  "example_sentence": "Telecommunications networks transmit data over long distances."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943732"
+  },
+  "word": "Videogame",
+  "meaning": "Trò chơi điện tử",
+  "pronunciation": "/ˈvɪdiəʊɡeɪm/",
+  "word_type": "Noun",
+  "example_sentence": "She enjoys playing video games in her spare time."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943733"
+  },
+  "word": "3D Printing",
+  "meaning": "In 3D",
+  "pronunciation": "/ˌθriː ˈdiː ˈprɪntɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "3D printing technology is used to create prototypes."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943734"
+  },
+  "word": "Algorithmic Trading",
+  "meaning": "Giao dịch thuật toán",
+  "pronunciation": "/ˌælɡəˈrɪðmɪk ˈtreɪdɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Algorithmic trading uses computer algorithms to execute trades."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943735"
+  },
+  "word": "Autonomous",
+  "meaning": "Tự động",
+  "pronunciation": "/ɔːˈtɒnəməs/",
+  "word_type": "Adjective",
+  "example_sentence": "Autonomous vehicles can navigate without human intervention."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943736"
+  },
+  "word": "Biomedical",
+  "meaning": "Y sinh học",
+  "pronunciation": "/ˌbaɪoʊˈmɛdɪkəl/",
+  "word_type": "Adjective",
+  "example_sentence": "Biomedical engineering applies engineering principles to medicine."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943737"
+  },
+  "word": "Cyberattack",
+  "meaning": "Tấn công mạng",
+  "pronunciation": "/ˈsaɪbərəˌtæk/",
+  "word_type": "Noun",
+  "example_sentence": "The company's website experienced a cyberattack."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943738"
+  },
+  "word": "Encryption",
+  "meaning": "Mã hóa",
+  "pronunciation": "/ɪnˈkrɪpʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Encryption protects data from unauthorized access."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943739"
+  },
+  "word": "Futuristic",
+  "meaning": "Hình ảnh tương lai",
+  "pronunciation": "/ˌfjuːtʃəˈrɪstɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "The concept car had a futuristic design."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294373a"
+  },
+  "word": "Gigabyte",
+  "meaning": "Gigabyte",
+  "pronunciation": "/ˈɡɪɡəbaɪt/",
+  "word_type": "Noun",
+  "example_sentence": "The hard drive has a storage capacity of several gigabytes."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294373b"
+  },
+  "word": "Internet Security",
+  "meaning": "Bảo mật Internet",
+  "pronunciation": "/ˈɪntərnɛt sɪˈkjʊərɪti/",
+  "word_type": "Noun",
+  "example_sentence": "Internet security measures protect against online threats."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294373c"
+  },
+  "word": "Nanometer",
+  "meaning": "Nanometer",
+  "pronunciation": "/ˈnænəʊˌmiːtər/",
+  "word_type": "Noun",
+  "example_sentence": "Nanotechnology operates at the scale of nanometers."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294373d"
+  },
+  "word": "Phishing",
+  "meaning": "Lừa đảo trên mạng",
+  "pronunciation": "/ˈfɪʃɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Phishing emails attempt to deceive users into providing sensitive information."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294373e"
+  },
+  "word": "Remote Control",
+  "meaning": "Điều khiển từ xa",
+  "pronunciation": "/rɪˈmoʊt kənˈtroʊl/",
+  "word_type": "Noun",
+  "example_sentence": "The remote control operates the television."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e9309294373f"
+  },
+  "word": "Server",
+  "meaning": "Máy chủ",
+  "pronunciation": "/ˈsɜːrvər/",
+  "word_type": "Noun",
+  "example_sentence": "The company hosts its website on a dedicated server."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943740"
+  },
+  "word": "Smart Grid",
+  "meaning": "Lưới điện thông minh",
+  "pronunciation": "/smɑːrt ɡrɪd/",
+  "word_type": "Noun",
+  "example_sentence": "A smart grid improves energy efficiency and reliability."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943741"
+  },
+  "word": "Social Networking",
+  "meaning": "Mạng xã hội",
+  "pronunciation": "/ˈsoʊʃəl ˈnɛtwɜːrkɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Social networking platforms connect people around the world."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943742"
+  },
+  "word": "Software Development",
+  "meaning": "Phát triển phần mềm",
+  "pronunciation": "/ˈsɒftwɛːr dɪˈvɛləpmənt/",
+  "word_type": "Noun",
+  "example_sentence": "Software development involves designing, coding, and testing applications."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943743"
+  },
+  "word": "Spam",
+  "meaning": "Rác",
+  "pronunciation": "/spæm/",
+  "word_type": "Noun",
+  "example_sentence": "Spam emails are unsolicited and often contain malicious content."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943744"
+  },
+  "word": "Startup",
+  "meaning": "Doanh nghiệp khởi nghiệp",
+  "pronunciation": "/ˈstɑːrtʌp/",
+  "word_type": "Noun",
+  "example_sentence": "The startup received funding from venture capitalists."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943745"
+  },
+  "word": "User Interface",
+  "meaning": "Giao diện người dùng",
+  "pronunciation": "/ˈjuːzər ˈɪntəfeɪs/",
+  "word_type": "Noun",
+  "example_sentence": "The user interface should be intuitive and easy to navigate."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943746"
+  },
+  "word": "Virus Protection",
+  "meaning": "Bảo vệ chống virus",
+  "pronunciation": "/ˈvaɪrəs prəˈtɛkʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Install antivirus software for virus protection."
+},
+{
+  "_id": {
+    "$oid": "660932741e73e93092943747"
+  },
+  "word": "Wi-Fi",
+  "meaning": "Wi-Fi",
+  "pronunciation": "/ˈwaɪfaɪ/",
+  "word_type": "Noun",
+  "example_sentence": "The café offers free Wi-Fi to its customers."
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e93092943748"
+  },
+  "word": "Melody",
+  "meaning": "Giai điệu",
+  "pronunciation": "/ˈmɛlədi/",
+  "word_type": "Noun",
+  "example_sentence": "The melody of the song was catchy and memorable.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e93092943749"
+  },
+  "word": "Harmony",
+  "meaning": "Âm hòa",
+  "pronunciation": "/ˈhɑːrməni/",
+  "word_type": "Noun",
+  "example_sentence": "The harmony between the instruments created a beautiful sound.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e9309294374a"
+  },
+  "word": "Rhythm",
+  "meaning": "Nhịp điệu",
+  "pronunciation": "/ˈrɪðəm/",
+  "word_type": "Noun",
+  "example_sentence": "The rhythm of the drums set the pace for the entire band.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e9309294374b"
+  },
+  "word": "Beat",
+  "meaning": "Nhịp",
+  "pronunciation": "/biːt/",
+  "word_type": "Noun",
+  "example_sentence": "The beat of the music made it impossible not to dance.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e9309294374c"
+  },
+  "word": "Chorus",
+  "meaning": "Đoạn hợp xướng",
+  "pronunciation": "/ˈkɔːrəs/",
+  "word_type": "Noun",
+  "example_sentence": "The chorus of the song was the most memorable part.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e9309294374d"
+  },
+  "word": "Verse",
+  "meaning": "Đoạn hợp xướng",
+  "pronunciation": "/vɜːrs/",
+  "word_type": "Noun",
+  "example_sentence": "The singer performed the first verse of the song acapella.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e9309294374e"
+  },
+  "word": "Bridge",
+  "meaning": "Đoạn chuyển giữa hợp xướng và cỗ điển",
+  "pronunciation": "/brɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "The bridge of the song provided a transition between sections.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e9309294374f"
+  },
+  "word": "Instrument",
+  "meaning": "Nhạc cụ",
+  "pronunciation": "/ˈɪnstrəmənt/",
+  "word_type": "Noun",
+  "example_sentence": "He played multiple instruments in the orchestra.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e93092943750"
+  },
+  "word": "Guitar",
+  "meaning": "Guitar",
+  "pronunciation": "/ɡɪˈtɑːr/",
+  "word_type": "Noun",
+  "example_sentence": "He strummed the guitar softly, producing a soothing sound.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660932d31e73e93092943751"
+  },
+  "word": "Piano",
+  "meaning": "Đàn piano",
+  "pronunciation": "/piˈænoʊ/",
+  "word_type": "Noun",
+  "example_sentence": "She practiced playing the piano for hours every day.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943752"
+  },
+  "word": "Violin",
+  "meaning": "Vi-ô-lông",
+  "pronunciation": "/ˌvaɪəˈlɪn/",
+  "word_type": "Noun",
+  "example_sentence": "The violinist played a beautiful solo during the concert.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943753"
+  },
+  "word": "Cello",
+  "meaning": "Đàn vi-ô-lông xên",
+  "pronunciation": "/ˈtʃeloʊ/",
+  "word_type": "Noun",
+  "example_sentence": "The cello provided a rich, warm tone to the orchestra's sound.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943754"
+  },
+  "word": "Trumpet",
+  "meaning": "Kèn trumpet",
+  "pronunciation": "/ˈtrʌmpɪt/",
+  "word_type": "Noun",
+  "example_sentence": "The trumpet player hit a high note that thrilled the audience.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943755"
+  },
+  "word": "Saxophone",
+  "meaning": "Kèn saxophone",
+  "pronunciation": "/ˈsæksəfoʊn/",
+  "word_type": "Noun",
+  "example_sentence": "The saxophone solo added a jazzy feel to the song.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943756"
+  },
+  "word": "Flute",
+  "meaning": "Sáo",
+  "pronunciation": "/fluːt/",
+  "word_type": "Noun",
+  "example_sentence": "The haunting melody was played on the flute.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943757"
+  },
+  "word": "Drums",
+  "meaning": "Trống",
+  "pronunciation": "/drʌmz/",
+  "word_type": "Noun",
+  "example_sentence": "The drummer kept the beat with precision.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943758"
+  },
+  "word": "Bass",
+  "meaning": "Hạ âm",
+  "pronunciation": "/beɪs/",
+  "word_type": "Noun",
+  "example_sentence": "The bass guitar provided a deep, resonant sound.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943759"
+  },
+  "word": "Vocal",
+  "meaning": "Hát",
+  "pronunciation": "/ˈvoʊkəl/",
+  "word_type": "Adjective",
+  "example_sentence": "Her vocal performance was stunning.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294375a"
+  },
+  "word": "Keyboard",
+  "meaning": "Bàn phím",
+  "pronunciation": "/ˈkiːˌbɔːrd/",
+  "word_type": "Noun",
+  "example_sentence": "He played the keyboard in a rock band.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294375b"
+  },
+  "word": "Synthesizer",
+  "meaning": "Máy tổng hợp",
+  "pronunciation": "/ˈsɪnθəˌsaɪzər/",
+  "word_type": "Noun",
+  "example_sentence": "The synthesizer added electronic effects to the music.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294375c"
+  },
+  "word": "Conductor",
+  "meaning": "Nhạc trưởng",
+  "pronunciation": "/kənˈdʌktər/",
+  "word_type": "Noun",
+  "example_sentence": "The conductor led the orchestra with energy and precision.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294375d"
+  },
+  "word": "Score",
+  "meaning": "Bản nhạc",
+  "pronunciation": "/skɔːr/",
+  "word_type": "Noun",
+  "example_sentence": "The composer wrote the score for the film.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294375e"
+  },
+  "word": "Lyrics",
+  "meaning": "Lời bài hát",
+  "pronunciation": "/ˈlɪrɪks/",
+  "word_type": "Noun",
+  "example_sentence": "She wrote the lyrics to her songs.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294375f"
+  },
+  "word": "Chord",
+  "meaning": "Âm (hợp âm)",
+  "pronunciation": "/kɔːrd/",
+  "word_type": "Noun",
+  "example_sentence": "He strummed the guitar, playing a simple chord progression.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943760"
+  },
+  "word": "Tune",
+  "meaning": "Bài hát",
+  "pronunciation": "/tjuːn/",
+  "word_type": "Noun",
+  "example_sentence": "She hummed a familiar tune as she worked.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943761"
+  },
+  "word": "Backing vocals",
+  "meaning": "Tiếng hát nền",
+  "pronunciation": "/ˈbækɪŋ ˈvoʊkəlz/",
+  "word_type": "Noun",
+  "example_sentence": "The song featured beautiful backing vocals.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943762"
+  },
+  "word": "Amplifier",
+  "meaning": "Bộ khuếch đại",
+  "pronunciation": "/ˈæmplɪˌfaɪər/",
+  "word_type": "Noun",
+  "example_sentence": "He turned up the amplifier to make his guitar louder.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943763"
+  },
+  "word": "Acoustic",
+  "meaning": "Nhạc cụ âm thanh",
+  "pronunciation": "/əˈkuːstɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "The band played an acoustic set at the café.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943764"
+  },
+  "word": "Electric",
+  "meaning": "Nhạc cụ điện",
+  "pronunciation": "/ɪˈlɛktrɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She played an electric guitar in the rock band.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943765"
+  },
+  "word": "Solo",
+  "meaning": "Độc tấu",
+  "pronunciation": "/ˈsoʊloʊ/",
+  "word_type": "Noun",
+  "example_sentence": "The guitarist performed an impressive solo during the concert.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943766"
+  },
+  "word": "Festival",
+  "meaning": "Lễ hội âm nhạc",
+  "pronunciation": "/ˈfɛstɪvəl/",
+  "word_type": "Noun",
+  "example_sentence": "Thousands of people attended the music festival.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943767"
+  },
+  "word": "DJ",
+  "meaning": "DJ",
+  "pronunciation": "/ˌdiːˈdʒeɪ/",
+  "word_type": "Noun",
+  "example_sentence": "The DJ played a mix of dance hits at the club.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943768"
+  },
+  "word": "Album",
+  "meaning": "Album nhạc",
+  "pronunciation": "/ˈælbəm/",
+  "word_type": "Noun",
+  "example_sentence": "She released her debut album last year.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943769"
+  },
+  "word": "Record",
+  "meaning": "Ghi âm",
+  "pronunciation": "/ˈrɛkərd/",
+  "word_type": "Noun",
+  "example_sentence": "The band went to the studio to record their new single.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294376a"
+  },
+  "word": "Concert",
+  "meaning": "Buổi biểu diễn",
+  "pronunciation": "/ˈkɒnsərt/",
+  "word_type": "Noun",
+  "example_sentence": "The concert was sold out weeks in advance.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294376b"
+  },
+  "word": "Orchestra",
+  "meaning": "Dàn nhạc giao hưởng",
+  "pronunciation": "/ˈɔːrkɪstrə/",
+  "word_type": "Noun",
+  "example_sentence": "The orchestra performed a symphony by Beethoven.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294376c"
+  },
+  "word": "Opera",
+  "meaning": "Nhạc kịch",
+  "pronunciation": "/ˈɒpərə/",
+  "word_type": "Noun",
+  "example_sentence": "She sang in the chorus of the opera.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294376d"
+  },
+  "word": "Symphony",
+  "meaning": "Giao hưởng",
+  "pronunciation": "/ˈsɪmfəni/",
+  "word_type": "Noun",
+  "example_sentence": "The symphony was composed by Mozart.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294376e"
+  },
+  "word": "Concerto",
+  "meaning": "Giao hưởng",
+  "pronunciation": "/kənˈtʃɜːtoʊ/",
+  "word_type": "Noun",
+  "example_sentence": "The pianist performed a concerto with the orchestra.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294376f"
+  },
+  "word": "Clef",
+  "meaning": "Dấu nhạc",
+  "pronunciation": "/klɛf/",
+  "word_type": "Noun",
+  "example_sentence": "The music sheet had a treble clef at the beginning.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943770"
+  },
+  "word": "Tempo",
+  "meaning": "Nhịp",
+  "pronunciation": "/ˈtɛmpoʊ/",
+  "word_type": "Noun",
+  "example_sentence": "The conductor set the tempo for the piece.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943771"
+  },
+  "word": "Metronome",
+  "meaning": "Máy nhịp",
+  "pronunciation": "/ˈmɛtrəˌnoʊm/",
+  "word_type": "Noun",
+  "example_sentence": "He used a metronome to practice keeping time.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943772"
+  },
+  "word": "Soprano",
+  "meaning": "Nữ cao",
+  "pronunciation": "/ˈsɒprənoʊ/",
+  "word_type": "Noun",
+  "example_sentence": "The soprano sang a beautiful aria.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943773"
+  },
+  "word": "Alto",
+  "meaning": "Nữ trung",
+  "pronunciation": "/ˈæltoʊ/",
+  "word_type": "Noun",
+  "example_sentence": "The alto section had a rich, warm sound.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943774"
+  },
+  "word": "Tenor",
+  "meaning": "Nam trung",
+  "pronunciation": "/ˈtɛnər/",
+  "word_type": "Noun",
+  "example_sentence": "The tenor soloist had a powerful voice.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943775"
+  },
+  "word": "Bass",
+  "meaning": "Nam dưới",
+  "pronunciation": "/beɪs/",
+  "word_type": "Noun",
+  "example_sentence": "The bass section provided a solid foundation for the choir.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943776"
+  },
+  "word": "Accompaniment",
+  "meaning": "Phần đệm",
+  "pronunciation": "/əˈkʌmpənɪmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The pianist provided accompaniment for the singer.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943777"
+  },
+  "word": "A cappella",
+  "meaning": "Hát không nhạc cụ",
+  "pronunciation": "/ɑː kəˈpɛlə/",
+  "word_type": "Adverb",
+  "example_sentence": "The choir sang the song a cappella, without instrumental accompaniment.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943778"
+  },
+  "word": "Encore",
+  "meaning": "Tiếp diễn",
+  "pronunciation": "/ˈɑːŋkɔːr/",
+  "word_type": "Noun",
+  "example_sentence": "The audience cheered for an encore.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943779"
+  },
+  "word": "Pitch",
+  "meaning": "Tông",
+  "pronunciation": "/pɪtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "She adjusted the pitch of her voice to match the melody.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294377a"
+  },
+  "word": "Choir",
+  "meaning": "Đội hợp xướng",
+  "pronunciation": "/ˈkwaɪər/",
+  "word_type": "Noun",
+  "example_sentence": "The church choir sang at Sunday service.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294377b"
+  },
+  "word": "Harmonize",
+  "meaning": "Hợp âm",
+  "pronunciation": "/ˈhɑːrməˌnaɪz/",
+  "word_type": "Verb",
+  "example_sentence": "The singers harmonized beautifully together.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294377c"
+  },
+  "word": "Orchestra pit",
+  "meaning": "Hố dàn nhạc",
+  "pronunciation": "/ˈɔːrkɪstrə pɪt/",
+  "word_type": "Noun",
+  "example_sentence": "The conductor stood in the orchestra pit.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294377d"
+  },
+  "word": "Interval",
+  "meaning": "Khoảng cách âm nhạc",
+  "pronunciation": "/ˈɪntərvəl/",
+  "word_type": "Noun",
+  "example_sentence": "There was a short interval between the acts.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294377e"
+  },
+  "word": "Octave",
+  "meaning": "Tông âm",
+  "pronunciation": "/ˈɒktɪv/",
+  "word_type": "Noun",
+  "example_sentence": "The singer reached the high octave effortlessly.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e9309294377f"
+  },
+  "word": "Backing track",
+  "meaning": "Nền nhạc",
+  "pronunciation": "/ˈbækɪŋ træk/",
+  "word_type": "Noun",
+  "example_sentence": "She sang along to a backing track.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943780"
+  },
+  "word": "Brass",
+  "meaning": "Nhạc cụ đồng",
+  "pronunciation": "/bræs/",
+  "word_type": "Noun",
+  "example_sentence": "The brass section added power to the orchestra's sound.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660933271e73e93092943781"
+  },
+  "word": "Woodwind",
+  "meaning": "Nhạc cụ gỗ",
+  "pronunciation": "/ˈwʊdˌwɪnd/",
+  "word_type": "Noun",
+  "example_sentence": "The woodwind instruments included flutes, clarinets, and oboes.",
+  "topic": "Music"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943782"
+  },
+  "word": "Career",
+  "meaning": "Sự nghiệp",
+  "pronunciation": "/kəˈrɪər/",
+  "word_type": "Noun",
+  "example_sentence": "She has a successful career in finance.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943783"
+  },
+  "word": "Job",
+  "meaning": "Công việc",
+  "pronunciation": "/dʒɑːb/",
+  "word_type": "Noun",
+  "example_sentence": "He found a new job after months of searching.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943784"
+  },
+  "word": "Employment",
+  "meaning": "Việc làm",
+  "pronunciation": "/ɪmˈplɔɪmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The company offers opportunities for employment.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943785"
+  },
+  "word": "Occupation",
+  "meaning": "Ngành nghề",
+  "pronunciation": "/ˌɒkjʊˈpeɪʃn/",
+  "word_type": "Noun",
+  "example_sentence": "Teaching is a respected occupation.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943786"
+  },
+  "word": "Profession",
+  "meaning": "Nghề nghiệp",
+  "pronunciation": "/prəˈfɛʃn/",
+  "word_type": "Noun",
+  "example_sentence": "She chose law as her profession.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943787"
+  },
+  "word": "Employer",
+  "meaning": "Nhà tuyển dụng",
+  "pronunciation": "/ɪmˈplɔɪər/",
+  "word_type": "Noun",
+  "example_sentence": "The employer interviewed several candidates for the position.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943788"
+  },
+  "word": "Employee",
+  "meaning": "Người lao động",
+  "pronunciation": "/ɪmˈplɔɪiː/",
+  "word_type": "Noun",
+  "example_sentence": "The employee worked diligently to meet deadlines.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943789"
+  },
+  "word": "Salary",
+  "meaning": "Lương",
+  "pronunciation": "/ˈsæləri/",
+  "word_type": "Noun",
+  "example_sentence": "He negotiated a higher salary for his new job.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294378a"
+  },
+  "word": "Wage",
+  "meaning": "Lương (hàng giờ)",
+  "pronunciation": "/weɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "The minimum wage is set by law.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294378b"
+  },
+  "word": "Pay",
+  "meaning": "Tiền lương",
+  "pronunciation": "/peɪ/",
+  "word_type": "Noun",
+  "example_sentence": "She received her monthly pay on the last day of each month.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294378c"
+  },
+  "word": "Promotion",
+  "meaning": "Thăng chức",
+  "pronunciation": "/prəˈmoʊʃn/",
+  "word_type": "Noun",
+  "example_sentence": "He was thrilled to receive a promotion.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294378d"
+  },
+  "word": "Raise",
+  "meaning": "Tăng lương",
+  "pronunciation": "/reɪz/",
+  "word_type": "Noun",
+  "example_sentence": "She asked her boss for a raise.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294378e"
+  },
+  "word": "Resume",
+  "meaning": "Sơ yếu lý lịch",
+  "pronunciation": "/ˈrezjuːm/",
+  "word_type": "Noun",
+  "example_sentence": "He updated his resume before applying for the job.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294378f"
+  },
+  "word": "Interview",
+  "meaning": "Phỏng vấn",
+  "pronunciation": "/ˈɪntərvjuː/",
+  "word_type": "Noun",
+  "example_sentence": "She prepared extensively for the job interview.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943790"
+  },
+  "word": "Skills",
+  "meaning": "Kỹ năng",
+  "pronunciation": "/skɪlz/",
+  "word_type": "Noun",
+  "example_sentence": "He has excellent communication skills.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943791"
+  },
+  "word": "Experience",
+  "meaning": "Kinh nghiệm",
+  "pronunciation": "/ɪkˈspɪriəns/",
+  "word_type": "Noun",
+  "example_sentence": "She gained valuable experience working in a fast-paced environment.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943792"
+  },
+  "word": "Qualification",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/ˌkwɒlɪfɪˈkeɪʃn/",
+  "word_type": "Noun",
+  "example_sentence": "He met all the qualifications for the position.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943793"
+  },
+  "word": "Degree",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/dɪˈɡriː/",
+  "word_type": "Noun",
+  "example_sentence": "She earned her degree in engineering.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943794"
+  },
+  "word": "Training",
+  "meaning": "Đào tạo",
+  "pronunciation": "/ˈtreɪnɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "The company provides on-the-job training for new employees.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943795"
+  },
+  "word": "Internship",
+  "meaning": "Thực tập",
+  "pronunciation": "/ˈɪntɜːrnʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "She completed an internship at a law firm.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943796"
+  },
+  "word": "Networking",
+  "meaning": "Mạng lưới quan hệ",
+  "pronunciation": "/ˈnetwɜːrkɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Networking is important for career advancement.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943797"
+  },
+  "word": "Entrepreneur",
+  "meaning": "Doanh nhân",
+  "pronunciation": "/ˌɒntrəprəˈnɜːr/",
+  "word_type": "Noun",
+  "example_sentence": "She started her own business and became an entrepreneur.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943798"
+  },
+  "word": "Freelancer",
+  "meaning": "Người làm việc tự do",
+  "pronunciation": "/ˈfriːˌlænsər/",
+  "word_type": "Noun",
+  "example_sentence": "As a freelancer, he enjoys the flexibility to work from anywhere.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e93092943799"
+  },
+  "word": "Career path",
+  "meaning": "Lộ trình nghề nghiệp",
+  "pronunciation": "/kəˈrɪər pæθ/",
+  "word_type": "Noun",
+  "example_sentence": "She's considering different career paths.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294379a"
+  },
+  "word": "Goal",
+  "meaning": "Mục tiêu",
+  "pronunciation": "/ɡoʊl/",
+  "word_type": "Noun",
+  "example_sentence": "His ultimate career goal is to become a CEO.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294379b"
+  },
+  "word": "Achievement",
+  "meaning": "Thành tựu",
+  "pronunciation": "/əˈtʃiːvmənt/",
+  "word_type": "Noun",
+  "example_sentence": "She celebrated her career achievements with her colleagues.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294379c"
+  },
+  "word": "Workplace",
+  "meaning": "Nơi làm việc",
+  "pronunciation": "/ˈwɜːrkpleɪs/",
+  "word_type": "Noun",
+  "example_sentence": "The workplace should be a safe and inclusive environment.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294379d"
+  },
+  "word": "Colleague",
+  "meaning": "Đồng nghiệp",
+  "pronunciation": "/ˈkɒliːɡ/",
+  "word_type": "Noun",
+  "example_sentence": "She gets along well with her colleagues.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294379e"
+  },
+  "word": "Team",
+  "meaning": "Nhóm",
+  "pronunciation": "/tiːm/",
+  "word_type": "Noun",
+  "example_sentence": "The sales team met to discuss their strategy.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e9309294379f"
+  },
+  "word": "Leadership",
+  "meaning": "Lãnh đạo",
+  "pronunciation": "/ˈliːdərʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "She demonstrated strong leadership skills in her previous role.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a0"
+  },
+  "word": "Management",
+  "meaning": "Quản lý",
+  "pronunciation": "/ˈmænɪdʒmənt/",
+  "word_type": "Noun",
+  "example_sentence": "He has years of experience in management.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a1"
+  },
+  "word": "Supervisor",
+  "meaning": "Người giám sát",
+  "pronunciation": "/ˈsuːpərˌvaɪzər/",
+  "word_type": "Noun",
+  "example_sentence": "She reports directly to her supervisor.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a2"
+  },
+  "word": "Boss",
+  "meaning": "Sếp",
+  "pronunciation": "/bɒs/",
+  "word_type": "Noun",
+  "example_sentence": "Her boss praised her for her hard work.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a3"
+  },
+  "word": "Meeting",
+  "meaning": "Cuộc họp",
+  "pronunciation": "/ˈmiːtɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "The team had a productive meeting to discuss their goals.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a4"
+  },
+  "word": "Deadline",
+  "meaning": "Hạn cuối",
+  "pronunciation": "/ˈdɛdˌlaɪn/",
+  "word_type": "Noun",
+  "example_sentence": "She worked late to meet the deadline.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a5"
+  },
+  "word": "Stress",
+  "meaning": "Áp lực",
+  "pronunciation": "/strɛs/",
+  "word_type": "Noun",
+  "example_sentence": "High levels of stress can impact your health.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a6"
+  },
+  "word": "Burnout",
+  "meaning": "Mệt mỏi cảm xúc",
+  "pronunciation": "/ˈbɜːrnaʊt/",
+  "word_type": "Noun",
+  "example_sentence": "She experienced burnout after working long hours for months.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a7"
+  },
+  "word": "Resignation",
+  "meaning": "Sự từ chức",
+  "pronunciation": "/ˌrɛzɪɡˈneɪʃn/",
+  "word_type": "Noun",
+  "example_sentence": "He submitted his resignation and left the company.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a8"
+  },
+  "word": "Retirement",
+  "meaning": "Nghỉ hưu",
+  "pronunciation": "/rɪˈtaɪərmənt/",
+  "word_type": "Noun",
+  "example_sentence": "She plans to travel after her retirement.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437a9"
+  },
+  "word": "Career coach",
+  "meaning": "Huấn luyện viên nghề nghiệp",
+  "pronunciation": "/kəˈrɪər koʊtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "He hired a career coach to help him with his job search.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437aa"
+  },
+  "word": "Work-life balance",
+  "meaning": "Cân bằng giữa công việc và cuộc sống",
+  "pronunciation": "/wɜːrk-laɪf ˈbæləns/",
+  "word_type": "Noun",
+  "example_sentence": "She strives for work-life balance by leaving the office on time.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437ab"
+  },
+  "word": "Remote work",
+  "meaning": "Làm việc từ xa",
+  "pronunciation": "/rɪˈmoʊt wɜːrk/",
+  "word_type": "Noun",
+  "example_sentence": "Many companies offer remote work options.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437ac"
+  },
+  "word": "Career development",
+  "meaning": "Phát triển nghề nghiệp",
+  "pronunciation": "/kəˈrɪər dɪˈvɛləpmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The company provides resources for career development.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437ad"
+  },
+  "word": "Networking event",
+  "meaning": "Sự kiện mạng lưới quan hệ",
+  "pronunciation": "/ˈnetwɜːrkɪŋ ɪˈvɛnt/",
+  "word_type": "Noun",
+  "example_sentence": "She attended a networking event to meet new contacts.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437ae"
+  },
+  "word": "Professional development",
+  "meaning": "Phát triển chuyên môn",
+  "pronunciation": "/prəˈfɛʃənl dɪˈvɛləpmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The company invests in professional development for its employees.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437af"
+  },
+  "word": "Workplace culture",
+  "meaning": "Văn hóa làm việc",
+  "pronunciation": "/ˈwɜːrkpleɪs ˈkʌltʃər/",
+  "word_type": "Noun",
+  "example_sentence": "The workplace culture values collaboration and innovation.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b0"
+  },
+  "word": "Job satisfaction",
+  "meaning": "Sự hài lòng với công việc",
+  "pronunciation": "/dʒɒb ˌsætɪsˈfækʃn/",
+  "word_type": "Noun",
+  "example_sentence": "She found great job satisfaction in helping others.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b1"
+  },
+  "word": "Career growth",
+  "meaning": "Sự phát triển nghề nghiệp",
+  "pronunciation": "/kəˈrɪər ɡroʊθ/",
+  "word_type": "Noun",
+  "example_sentence": "The company offers opportunities for career growth.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b2"
+  },
+  "word": "Job security",
+  "meaning": "An toàn công việc",
+  "pronunciation": "/dʒɒb sɪˈkjʊərəti/",
+  "word_type": "Noun",
+  "example_sentence": "Many employees value job security.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b3"
+  },
+  "word": "Job market",
+  "meaning": "Thị trường lao động",
+  "pronunciation": "/dʒɒb ˈmɑːrkɪt/",
+  "word_type": "Noun",
+  "example_sentence": "She researched the job market before applying for positions.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b4"
+  },
+  "word": "Telecommuting",
+  "meaning": "Làm việc từ xa",
+  "pronunciation": "/ˌtɛlɪkəˈmjuːtɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Telecommuting allows employees to work from home.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b5"
+  },
+  "word": "Work ethic",
+  "meaning": "Đạo đức làm việc",
+  "pronunciation": "/wɜːrk ˈɛθɪk/",
+  "word_type": "Noun",
+  "example_sentence": "She has a strong work ethic and always meets deadlines.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b6"
+  },
+  "word": "Job hunting",
+  "meaning": "Tìm kiếm việc làm",
+  "pronunciation": "/dʒɒb ˈhʌntɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "He's been job hunting for months without success.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b7"
+  },
+  "word": "Career change",
+  "meaning": "Thay đổi nghề nghiệp",
+  "pronunciation": "/kəˈrɪər tʃeɪndʒ/",
+  "word_type": "Noun",
+  "example_sentence": "She's considering a career change to pursue her passion.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b8"
+  },
+  "word": "Job market",
+  "meaning": "Thị trường lao động",
+  "pronunciation": "/dʒɒb ˈmɑːrkɪt/",
+  "word_type": "Noun",
+  "example_sentence": "She researched the job market before applying for positions.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437b9"
+  },
+  "word": "Job satisfaction",
+  "meaning": "Sự hài lòng với công việc",
+  "pronunciation": "/dʒɒb ˌsætɪsˈfækʃn/",
+  "word_type": "Noun",
+  "example_sentence": "She found great job satisfaction in helping others.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437ba"
+  },
+  "word": "Career growth",
+  "meaning": "Sự phát triển nghề nghiệp",
+  "pronunciation": "/kəˈrɪər ɡroʊθ/",
+  "word_type": "Noun",
+  "example_sentence": "The company offers opportunities for career growth.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437bb"
+  },
+  "word": "Job security",
+  "meaning": "An toàn công việc",
+  "pronunciation": "/dʒɒb sɪˈkjʊərəti/",
+  "word_type": "Noun",
+  "example_sentence": "Many employees value job security.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437bc"
+  },
+  "word": "Job market",
+  "meaning": "Thị trường lao động",
+  "pronunciation": "/dʒɒb ˈmɑːrkɪt/",
+  "word_type": "Noun",
+  "example_sentence": "She researched the job market before applying for positions.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437bd"
+  },
+  "word": "Telecommuting",
+  "meaning": "Làm việc từ xa",
+  "pronunciation": "/ˌtɛlɪkəˈmjuːtɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Telecommuting allows employees to work from home.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437be"
+  },
+  "word": "Work ethic",
+  "meaning": "Đạo đức làm việc",
+  "pronunciation": "/wɜːrk ˈɛθɪk/",
+  "word_type": "Noun",
+  "example_sentence": "She has a strong work ethic and always meets deadlines.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437bf"
+  },
+  "word": "Job hunting",
+  "meaning": "Tìm kiếm việc làm",
+  "pronunciation": "/dʒɒb ˈhʌntɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "He's been job hunting for months without success.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660934221e73e930929437c0"
+  },
+  "word": "Career change",
+  "meaning": "Thay đổi nghề nghiệp",
+  "pronunciation": "/kəˈrɪər tʃeɪndʒ/",
+  "word_type": "Noun",
+  "example_sentence": "She's considering a career change to pursue her passion.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c1"
+  },
+  "word": "Unemployment",
+  "meaning": "Tình trạng thất nghiệp",
+  "pronunciation": "/ʌnɪmˈplɔɪmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The country is facing high levels of unemployment.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c2"
+  },
+  "word": "Part-time",
+  "meaning": "Bán thời gian",
+  "pronunciation": "/ˈpɑːrtˌtaɪm/",
+  "word_type": "Adjective",
+  "example_sentence": "She works part-time while studying at university.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c3"
+  },
+  "word": "Full-time",
+  "meaning": "Toàn thời gian",
+  "pronunciation": "/ˈfʊlˌtaɪm/",
+  "word_type": "Adjective",
+  "example_sentence": "He has a full-time job at a law firm.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c4"
+  },
+  "word": "Freelance",
+  "meaning": "Tự do làm nghề",
+  "pronunciation": "/ˈfriːˌlæns/",
+  "word_type": "Adjective",
+  "example_sentence": "She works as a freelance writer.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c5"
+  },
+  "word": "Contract",
+  "meaning": "Hợp đồng lao động",
+  "pronunciation": "/ˈkɒntrækt/",
+  "word_type": "Noun",
+  "example_sentence": "He signed a contract for a year-long project.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c6"
+  },
+  "word": "Commute",
+  "meaning": "Đi lại làm việc",
+  "pronunciation": "/kəˈmjuːt/",
+  "word_type": "Verb",
+  "example_sentence": "She commutes to work by train every day.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c7"
+  },
+  "word": "Remote",
+  "meaning": "Từ xa",
+  "pronunciation": "/rɪˈmoʊt/",
+  "word_type": "Adjective",
+  "example_sentence": "He works for a remote company.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c8"
+  },
+  "word": "Workload",
+  "meaning": "Khối lượng công việc",
+  "pronunciation": "/ˈwɜːrkloʊd/",
+  "word_type": "Noun",
+  "example_sentence": "She struggles with her heavy workload.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437c9"
+  },
+  "word": "Overtime",
+  "meaning": "Làm thêm giờ",
+  "pronunciation": "/ˈoʊvərˌtaɪm/",
+  "word_type": "Noun",
+  "example_sentence": "He earns extra money by working overtime.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437ca"
+  },
+  "word": "Professional",
+  "meaning": "Chuyên nghiệp",
+  "pronunciation": "/prəˈfɛʃənl/",
+  "word_type": "Adjective",
+  "example_sentence": "She has a professional demeanor in the workplace.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437cb"
+  },
+  "word": "Networking",
+  "meaning": "Mạng lưới quan hệ",
+  "pronunciation": "/ˈnetwɜːrkɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Networking is important for career advancement.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437cc"
+  },
+  "word": "Promotion",
+  "meaning": "Thăng chức",
+  "pronunciation": "/prəˈmoʊʃn/",
+  "word_type": "Noun",
+  "example_sentence": "He was thrilled to receive a promotion.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437cd"
+  },
+  "word": "Apprenticeship",
+  "meaning": "Học việc",
+  "pronunciation": "/əˈprɛntɪsˌʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "He started his career with an apprenticeship.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437ce"
+  },
+  "word": "Leadership",
+  "meaning": "Lãnh đạo",
+  "pronunciation": "/ˈliːdərʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "She demonstrated strong leadership skills in her previous role.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437cf"
+  },
+  "word": "Responsibility",
+  "meaning": "Trách nhiệm",
+  "pronunciation": "/rɪˌspɒnsəˈbɪləti/",
+  "word_type": "Noun",
+  "example_sentence": "She takes her responsibilities seriously.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d0"
+  },
+  "word": "Flexibility",
+  "meaning": "Tính linh hoạt",
+  "pronunciation": "/ˌflɛksɪˈbɪlɪti/",
+  "word_type": "Noun",
+  "example_sentence": "The job offers flexibility in terms of hours.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d1"
+  },
+  "word": "Benefits",
+  "meaning": "Phúc lợi",
+  "pronunciation": "/ˈbɛnɪfɪts/",
+  "word_type": "Noun",
+  "example_sentence": "The company provides excellent benefits for its employees.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d2"
+  },
+  "word": "Retirement",
+  "meaning": "Nghỉ hưu",
+  "pronunciation": "/rɪˈtaɪərmənt/",
+  "word_type": "Noun",
+  "example_sentence": "She plans to travel after her retirement.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d3"
+  },
+  "word": "Career coach",
+  "meaning": "Huấn luyện viên nghề nghiệp",
+  "pronunciation": "/kəˈrɪər koʊtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "He hired a career coach to help him with his job search.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d4"
+  },
+  "word": "Work-life balance",
+  "meaning": "Cân bằng giữa công việc và cuộc sống",
+  "pronunciation": "/wɜːrk-laɪf ˈbæləns/",
+  "word_type": "Noun",
+  "example_sentence": "She strives for work-life balance by leaving the office on time.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d5"
+  },
+  "word": "Remote work",
+  "meaning": "Làm việc từ xa",
+  "pronunciation": "/rɪˈmoʊt wɜːrk/",
+  "word_type": "Noun",
+  "example_sentence": "Many companies offer remote work options.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d6"
+  },
+  "word": "Career development",
+  "meaning": "Phát triển nghề nghiệp",
+  "pronunciation": "/kəˈrɪər dɪˈvɛləpmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The company provides resources for career development.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d7"
+  },
+  "word": "Networking event",
+  "meaning": "Sự kiện mạng lưới quan hệ",
+  "pronunciation": "/ˈnetwɜːrkɪŋ ɪˈvɛnt/",
+  "word_type": "Noun",
+  "example_sentence": "She attended a networking event to meet new contacts.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d8"
+  },
+  "word": "Professional development",
+  "meaning": "Phát triển chuyên môn",
+  "pronunciation": "/prəˈfɛʃənl dɪˈvɛləpmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The company invests in professional development for its employees.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437d9"
+  },
+  "word": "Workplace culture",
+  "meaning": "Văn hóa làm việc",
+  "pronunciation": "/ˈwɜːrkpleɪs ˈkʌltʃər/",
+  "word_type": "Noun",
+  "example_sentence": "The workplace culture values collaboration and innovation.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437da"
+  },
+  "word": "Job satisfaction",
+  "meaning": "Sự hài lòng với công việc",
+  "pronunciation": "/dʒɒb ˌsætɪsˈfækʃn/",
+  "word_type": "Noun",
+  "example_sentence": "She found great job satisfaction in helping others.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437db"
+  },
+  "word": "Career growth",
+  "meaning": "Sự phát triển nghề nghiệp",
+  "pronunciation": "/kəˈrɪər ɡroʊθ/",
+  "word_type": "Noun",
+  "example_sentence": "The company offers opportunities for career growth.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437dc"
+  },
+  "word": "Job security",
+  "meaning": "An toàn công việc",
+  "pronunciation": "/dʒɒb sɪˈkjʊərəti/",
+  "word_type": "Noun",
+  "example_sentence": "Many employees value job security.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437dd"
+  },
+  "word": "Job market",
+  "meaning": "Thị trường lao động",
+  "pronunciation": "/dʒɒb ˈmɑːrkɪt/",
+  "word_type": "Noun",
+  "example_sentence": "She researched the job market before applying for positions.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437de"
+  },
+  "word": "Telecommuting",
+  "meaning": "Làm việc từ xa",
+  "pronunciation": "/ˌtɛlɪkəˈmjuːtɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "Telecommuting allows employees to work from home.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437df"
+  },
+  "word": "Work ethic",
+  "meaning": "Đạo đức làm việc",
+  "pronunciation": "/wɜːrk ˈɛθɪk/",
+  "word_type": "Noun",
+  "example_sentence": "She has a strong work ethic and always meets deadlines.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437e0"
+  },
+  "word": "Job hunting",
+  "meaning": "Tìm kiếm việc làm",
+  "pronunciation": "/dʒɒb ˈhʌntɪŋ/",
+  "word_type": "Noun",
+  "example_sentence": "He's been job hunting for months without success.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "6609346d1e73e930929437e1"
+  },
+  "word": "Career change",
+  "meaning": "Thay đổi nghề nghiệp",
+  "pronunciation": "/kəˈrɪər tʃeɪndʒ/",
+  "word_type": "Noun",
+  "example_sentence": "She's considering a career change to pursue her passion.",
+  "topic": "Careers"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e3"
+  },
+  "word": "Education",
+  "meaning": "Giáo dục",
+  "pronunciation": "/ˌɛdʒʊˈkeɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "Education is the key to success.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e4"
+  },
+  "word": "School",
+  "meaning": "Trường học",
+  "pronunciation": "/skuːl/",
+  "word_type": "Noun",
+  "example_sentence": "She goes to a public school.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e5"
+  },
+  "word": "Teacher",
+  "meaning": "Giáo viên",
+  "pronunciation": "/ˈtiːtʃər/",
+  "word_type": "Noun",
+  "example_sentence": "Her favorite teacher is Mr. Smith.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e6"
+  },
+  "word": "Student",
+  "meaning": "Học sinh",
+  "pronunciation": "/ˈstuːdənt/",
+  "word_type": "Noun",
+  "example_sentence": "There are over 500 students in the school.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e7"
+  },
+  "word": "Classroom",
+  "meaning": "Lớp học",
+  "pronunciation": "/ˈklɑːsruːm/",
+  "word_type": "Noun",
+  "example_sentence": "The classroom is equipped with modern technology.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e8"
+  },
+  "word": "Lesson",
+  "meaning": "Bài học",
+  "pronunciation": "/ˈlɛsn/",
+  "word_type": "Noun",
+  "example_sentence": "She learned an important lesson from her mistake.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437e9"
+  },
+  "word": "Homework",
+  "meaning": "Bài tập về nhà",
+  "pronunciation": "/ˈhoʊmwɜːrk/",
+  "word_type": "Noun",
+  "example_sentence": "She stayed up late doing her homework.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437ea"
+  },
+  "word": "Examination",
+  "meaning": "Kỳ thi",
+  "pronunciation": "/ɪɡˌzæmɪˈneɪʃn/",
+  "word_type": "Noun",
+  "example_sentence": "He passed the examination with flying colors.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437eb"
+  },
+  "word": "Test",
+  "meaning": "Bài kiểm tra",
+  "pronunciation": "/tɛst/",
+  "word_type": "Noun",
+  "example_sentence": "They have a math test tomorrow.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437ec"
+  },
+  "word": "Grade",
+  "meaning": "Lớp học; điểm số",
+  "pronunciation": "/ɡreɪd/",
+  "word_type": "Noun",
+  "example_sentence": "She received an A grade on her essay.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437ed"
+  },
+  "word": "Degree",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/dɪˈɡriː/",
+  "word_type": "Noun",
+  "example_sentence": "She earned a Bachelor's degree in Business.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437ee"
+  },
+  "word": "College",
+  "meaning": "Trường cao đẳng",
+  "pronunciation": "/ˈkɒlɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "He applied to several colleges.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437ef"
+  },
+  "word": "University",
+  "meaning": "Đại học",
+  "pronunciation": "/ˌjuːnɪˈvɜːrsɪti/",
+  "word_type": "Noun",
+  "example_sentence": "She studied English literature at the university.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f0"
+  },
+  "word": "Professor",
+  "meaning": "Giáo sư",
+  "pronunciation": "/prəˈfɛsər/",
+  "word_type": "Noun",
+  "example_sentence": "Professor Johnson teaches physics.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f1"
+  },
+  "word": "Course",
+  "meaning": "Khóa học",
+  "pronunciation": "/kɔːrs/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking a course in computer programming.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f2"
+  },
+  "word": "Textbook",
+  "meaning": "Sách giáo khoa",
+  "pronunciation": "/ˈtɛkstˌbʊk/",
+  "word_type": "Noun",
+  "example_sentence": "The textbook covers a wide range of topics.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f3"
+  },
+  "word": "Library",
+  "meaning": "Thư viện",
+  "pronunciation": "/ˈlaɪbrəri/",
+  "word_type": "Noun",
+  "example_sentence": "She spent hours studying in the library.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f4"
+  },
+  "word": "Scholarship",
+  "meaning": "Học bổng",
+  "pronunciation": "/ˈskɒləʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "She received a scholarship to study abroad.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f5"
+  },
+  "word": "Research",
+  "meaning": "Nghiên cứu",
+  "pronunciation": "/rɪˈsɜːrtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "He conducted research for his thesis.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f6"
+  },
+  "word": "Knowledge",
+  "meaning": "Kiến thức",
+  "pronunciation": "/ˈnɒlɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "Reading broadens your knowledge.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f7"
+  },
+  "word": "Classmate",
+  "meaning": "Bạn cùng lớp",
+  "pronunciation": "/ˈklɑːsmeɪt/",
+  "word_type": "Noun",
+  "example_sentence": "She's been friends with her classmates since kindergarten.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f8"
+  },
+  "word": "Assignment",
+  "meaning": "Bài tập",
+  "pronunciation": "/əˈsaɪnmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The assignment is due next Friday.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437f9"
+  },
+  "word": "Report card",
+  "meaning": "Bảng điểm",
+  "pronunciation": "/rɪˈpɔːrt ˌkɑːrd/",
+  "word_type": "Noun",
+  "example_sentence": "Her parents were proud of her good grades on her report card.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437fa"
+  },
+  "word": "Academic",
+  "meaning": "Thuộc về học thuật",
+  "pronunciation": "/ˌækəˈdɛmɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She excels in her academic pursuits.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437fb"
+  },
+  "word": "Diploma",
+  "meaning": "Bằng tốt nghiệp",
+  "pronunciation": "/dɪˈpləʊmə/",
+  "word_type": "Noun",
+  "example_sentence": "She proudly displayed her diploma on the wall.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437fc"
+  },
+  "word": "Attendance",
+  "meaning": "Sự tham dự",
+  "pronunciation": "/əˈtɛndəns/",
+  "word_type": "Noun",
+  "example_sentence": "Regular attendance is important for success.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437fd"
+  },
+  "word": "Tuition",
+  "meaning": "Học phí",
+  "pronunciation": "/tuˈɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "The tuition fees have increased this year.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437fe"
+  },
+  "word": "Graduation",
+  "meaning": "Lễ tốt nghiệp",
+  "pronunciation": "/ˌɡrædʒuˈeɪʃn/",
+  "word_type": "Noun",
+  "example_sentence": "She's excited about her upcoming graduation.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e930929437ff"
+  },
+  "word": "Curriculum",
+  "meaning": "Chương trình học",
+  "pronunciation": "/kəˈrɪkjʊləm/",
+  "word_type": "Noun",
+  "example_sentence": "The curriculum is designed to meet educational standards.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943800"
+  },
+  "word": "Major",
+  "meaning": "Ngành học chính",
+  "pronunciation": "/ˈmeɪdʒər/",
+  "word_type": "Noun",
+  "example_sentence": "She's studying biology as her major.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943801"
+  },
+  "word": "Minor",
+  "meaning": "Ngành học phụ",
+  "pronunciation": "/ˈmaɪnər/",
+  "word_type": "Noun",
+  "example_sentence": "She's minoring in French.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943802"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943803"
+  },
+  "word": "Lecture",
+  "meaning": "Bài giảng",
+  "pronunciation": "/ˈlɛkʧər/",
+  "word_type": "Noun",
+  "example_sentence": "She attended an interesting lecture on history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943804"
+  },
+  "word": "Study",
+  "meaning": "Học tập",
+  "pronunciation": "/ˈstʌdi/",
+  "word_type": "Verb",
+  "example_sentence": "She studies hard for her exams.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943805"
+  },
+  "word": "Learn",
+  "meaning": "Học",
+  "pronunciation": "/lɜːrn/",
+  "word_type": "Verb",
+  "example_sentence": "He wants to learn to play the piano.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943806"
+  },
+  "word": "Knowledgeable",
+  "meaning": "Thông thạo",
+  "pronunciation": "/ˈnɒlɪdʒəbl/",
+  "word_type": "Adjective",
+  "example_sentence": "She's very knowledgeable about history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943807"
+  },
+  "word": "Smart",
+  "meaning": "Thông minh",
+  "pronunciation": "/smɑːrt/",
+  "word_type": "Adjective",
+  "example_sentence": "He's a smart student.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943808"
+  },
+  "word": "Intelligent",
+  "meaning": "Tài năng",
+  "pronunciation": "/ɪnˈtɛlɪdʒənt/",
+  "word_type": "Adjective",
+  "example_sentence": "She's an intelligent young woman.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943809"
+  },
+  "word": "Knowledge",
+  "meaning": "Kiến thức",
+  "pronunciation": "/ˈnɒlɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "Reading broadens your knowledge.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294380a"
+  },
+  "word": "Resource",
+  "meaning": "Tài nguyên",
+  "pronunciation": "/ˈrɛsɔːrs/",
+  "word_type": "Noun",
+  "example_sentence": "The library is a valuable resource for students.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294380b"
+  },
+  "word": "Academic",
+  "meaning": "Học thuật",
+  "pronunciation": "/ˌækəˈdɛmɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She's pursuing an academic career in science.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294380c"
+  },
+  "word": "Research",
+  "meaning": "Nghiên cứu",
+  "pronunciation": "/rɪˈsɜːrtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "He conducted research for his thesis.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294380d"
+  },
+  "word": "Graduate",
+  "meaning": "Tốt nghiệp",
+  "pronunciation": "/ˈɡrædʒueɪt/",
+  "word_type": "Verb",
+  "example_sentence": "She will graduate next spring.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294380e"
+  },
+  "word": "Attendance",
+  "meaning": "Sự tham dự",
+  "pronunciation": "/əˈtɛndəns/",
+  "word_type": "Noun",
+  "example_sentence": "Regular attendance is important for success.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294380f"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943810"
+  },
+  "word": "Professor",
+  "meaning": "Giáo sư",
+  "pronunciation": "/prəˈfɛsər/",
+  "word_type": "Noun",
+  "example_sentence": "Professor Johnson teaches physics.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943811"
+  },
+  "word": "Degree",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/dɪˈɡriː/",
+  "word_type": "Noun",
+  "example_sentence": "She earned a Bachelor's degree in Business.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943812"
+  },
+  "word": "Major",
+  "meaning": "Ngành học chính",
+  "pronunciation": "/ˈmeɪdʒər/",
+  "word_type": "Noun",
+  "example_sentence": "She's studying biology as her major.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943813"
+  },
+  "word": "Minor",
+  "meaning": "Ngành học phụ",
+  "pronunciation": "/ˈmaɪnər/",
+  "word_type": "Noun",
+  "example_sentence": "She's minoring in French.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943814"
+  },
+  "word": "Seminar",
+  "meaning": "Hội thảo",
+  "pronunciation": "/ˈsɛmɪnɑːr/",
+  "word_type": "Noun",
+  "example_sentence": "She attended a seminar on economics.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943815"
+  },
+  "word": "Degree",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/dɪˈɡriː/",
+  "word_type": "Noun",
+  "example_sentence": "She earned a Bachelor's degree in Business.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943816"
+  },
+  "word": "Library",
+  "meaning": "Thư viện",
+  "pronunciation": "/ˈlaɪbrəri/",
+  "word_type": "Noun",
+  "example_sentence": "She spent hours studying in the library.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943817"
+  },
+  "word": "Scholarship",
+  "meaning": "Học bổng",
+  "pronunciation": "/ˈskɒləʃɪp/",
+  "word_type": "Noun",
+  "example_sentence": "She received a scholarship to study abroad.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943818"
+  },
+  "word": "Assignment",
+  "meaning": "Bài tập",
+  "pronunciation": "/əˈsaɪnmənt/",
+  "word_type": "Noun",
+  "example_sentence": "The assignment is due next Friday.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943819"
+  },
+  "word": "Report card",
+  "meaning": "Bảng điểm",
+  "pronunciation": "/rɪˈpɔːrt ˌkɑːrd/",
+  "word_type": "Noun",
+  "example_sentence": "Her parents were proud of her good grades on her report card.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294381a"
+  },
+  "word": "Academic",
+  "meaning": "Thuộc về học thuật",
+  "pronunciation": "/ˌækəˈdɛmɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She excels in her academic pursuits.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294381b"
+  },
+  "word": "Diploma",
+  "meaning": "Bằng tốt nghiệp",
+  "pronunciation": "/dɪˈpləʊmə/",
+  "word_type": "Noun",
+  "example_sentence": "She proudly displayed her diploma on the wall.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294381c"
+  },
+  "word": "Attendance",
+  "meaning": "Sự tham dự",
+  "pronunciation": "/əˈtɛndəns/",
+  "word_type": "Noun",
+  "example_sentence": "Regular attendance is important for success.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294381d"
+  },
+  "word": "Tuition",
+  "meaning": "Học phí",
+  "pronunciation": "/tuˈɪʃən/",
+  "word_type": "Noun",
+  "example_sentence": "The tuition fees have increased this year.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294381e"
+  },
+  "word": "Graduation",
+  "meaning": "Lễ tốt nghiệp",
+  "pronunciation": "/ˌɡrædʒuˈeɪʃn/",
+  "word_type": "Noun",
+  "example_sentence": "She's excited about her upcoming graduation.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294381f"
+  },
+  "word": "Curriculum",
+  "meaning": "Chương trình học",
+  "pronunciation": "/kəˈrɪkjʊləm/",
+  "word_type": "Noun",
+  "example_sentence": "The curriculum is designed to meet educational standards.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943820"
+  },
+  "word": "Major",
+  "meaning": "Ngành học chính",
+  "pronunciation": "/ˈmeɪdʒər/",
+  "word_type": "Noun",
+  "example_sentence": "She's studying biology as her major.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943821"
+  },
+  "word": "Minor",
+  "meaning": "Ngành học phụ",
+  "pronunciation": "/ˈmaɪnər/",
+  "word_type": "Noun",
+  "example_sentence": "She's minoring in French.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943822"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943823"
+  },
+  "word": "Lecture",
+  "meaning": "Bài giảng",
+  "pronunciation": "/ˈlɛkʧər/",
+  "word_type": "Noun",
+  "example_sentence": "She attended an interesting lecture on history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943824"
+  },
+  "word": "Study",
+  "meaning": "Học tập",
+  "pronunciation": "/ˈstʌdi/",
+  "word_type": "Verb",
+  "example_sentence": "She studies hard for her exams.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943825"
+  },
+  "word": "Learn",
+  "meaning": "Học",
+  "pronunciation": "/lɜːrn/",
+  "word_type": "Verb",
+  "example_sentence": "He wants to learn to play the piano.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943826"
+  },
+  "word": "Knowledgeable",
+  "meaning": "Thông thạo",
+  "pronunciation": "/ˈnɒlɪdʒəbl/",
+  "word_type": "Adjective",
+  "example_sentence": "She's very knowledgeable about history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943827"
+  },
+  "word": "Smart",
+  "meaning": "Thông minh",
+  "pronunciation": "/smɑːrt/",
+  "word_type": "Adjective",
+  "example_sentence": "He's a smart student.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943828"
+  },
+  "word": "Intelligent",
+  "meaning": "Tài năng",
+  "pronunciation": "/ɪnˈtɛlɪdʒənt/",
+  "word_type": "Adjective",
+  "example_sentence": "She's an intelligent young woman.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943829"
+  },
+  "word": "Knowledge",
+  "meaning": "Kiến thức",
+  "pronunciation": "/ˈnɒlɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "Reading broadens your knowledge.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294382a"
+  },
+  "word": "Resource",
+  "meaning": "Tài nguyên",
+  "pronunciation": "/ˈrɛsɔːrs/",
+  "word_type": "Noun",
+  "example_sentence": "The library is a valuable resource for students.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294382b"
+  },
+  "word": "Academic",
+  "meaning": "Học thuật",
+  "pronunciation": "/ˌækəˈdɛmɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She's pursuing an academic career in science.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294382c"
+  },
+  "word": "Research",
+  "meaning": "Nghiên cứu",
+  "pronunciation": "/rɪˈsɜːrtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "He conducted research for his thesis.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294382d"
+  },
+  "word": "Graduate",
+  "meaning": "Tốt nghiệp",
+  "pronunciation": "/ˈɡrædʒueɪt/",
+  "word_type": "Verb",
+  "example_sentence": "She will graduate next spring.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294382e"
+  },
+  "word": "Attendance",
+  "meaning": "Sự tham dự",
+  "pronunciation": "/əˈtɛndəns/",
+  "word_type": "Noun",
+  "example_sentence": "Regular attendance is important for success.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294382f"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943830"
+  },
+  "word": "Professor",
+  "meaning": "Giáo sư",
+  "pronunciation": "/prəˈfɛsər/",
+  "word_type": "Noun",
+  "example_sentence": "Professor Johnson teaches physics.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943831"
+  },
+  "word": "Degree",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/dɪˈɡriː/",
+  "word_type": "Noun",
+  "example_sentence": "She earned a Bachelor's degree in Business.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943832"
+  },
+  "word": "Major",
+  "meaning": "Ngành học chính",
+  "pronunciation": "/ˈmeɪdʒər/",
+  "word_type": "Noun",
+  "example_sentence": "She's studying biology as her major.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943833"
+  },
+  "word": "Minor",
+  "meaning": "Ngành học phụ",
+  "pronunciation": "/ˈmaɪnər/",
+  "word_type": "Noun",
+  "example_sentence": "She's minoring in French.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943834"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943835"
+  },
+  "word": "Lecture",
+  "meaning": "Bài giảng",
+  "pronunciation": "/ˈlɛkʧər/",
+  "word_type": "Noun",
+  "example_sentence": "She attended an interesting lecture on history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943836"
+  },
+  "word": "Study",
+  "meaning": "Học tập",
+  "pronunciation": "/ˈstʌdi/",
+  "word_type": "Verb",
+  "example_sentence": "She studies hard for her exams.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943837"
+  },
+  "word": "Learn",
+  "meaning": "Học",
+  "pronunciation": "/lɜːrn/",
+  "word_type": "Verb",
+  "example_sentence": "He wants to learn to play the piano.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943838"
+  },
+  "word": "Knowledgeable",
+  "meaning": "Thông thạo",
+  "pronunciation": "/ˈnɒlɪdʒəbl/",
+  "word_type": "Adjective",
+  "example_sentence": "She's very knowledgeable about history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943839"
+  },
+  "word": "Smart",
+  "meaning": "Thông minh",
+  "pronunciation": "/smɑːrt/",
+  "word_type": "Adjective",
+  "example_sentence": "He's a smart student.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294383a"
+  },
+  "word": "Intelligent",
+  "meaning": "Tài năng",
+  "pronunciation": "/ɪnˈtɛlɪdʒənt/",
+  "word_type": "Adjective",
+  "example_sentence": "She's an intelligent young woman.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294383b"
+  },
+  "word": "Knowledge",
+  "meaning": "Kiến thức",
+  "pronunciation": "/ˈnɒlɪdʒ/",
+  "word_type": "Noun",
+  "example_sentence": "Reading broadens your knowledge.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294383c"
+  },
+  "word": "Resource",
+  "meaning": "Tài nguyên",
+  "pronunciation": "/ˈrɛsɔːrs/",
+  "word_type": "Noun",
+  "example_sentence": "The library is a valuable resource for students.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294383d"
+  },
+  "word": "Academic",
+  "meaning": "Học thuật",
+  "pronunciation": "/ˌækəˈdɛmɪk/",
+  "word_type": "Adjective",
+  "example_sentence": "She's pursuing an academic career in science.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294383e"
+  },
+  "word": "Research",
+  "meaning": "Nghiên cứu",
+  "pronunciation": "/rɪˈsɜːrtʃ/",
+  "word_type": "Noun",
+  "example_sentence": "He conducted research for his thesis.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294383f"
+  },
+  "word": "Graduate",
+  "meaning": "Tốt nghiệp",
+  "pronunciation": "/ˈɡrædʒueɪt/",
+  "word_type": "Verb",
+  "example_sentence": "She will graduate next spring.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943840"
+  },
+  "word": "Attendance",
+  "meaning": "Sự tham dự",
+  "pronunciation": "/əˈtɛndəns/",
+  "word_type": "Noun",
+  "example_sentence": "Regular attendance is important for success.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943841"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943842"
+  },
+  "word": "Professor",
+  "meaning": "Giáo sư",
+  "pronunciation": "/prəˈfɛsər/",
+  "word_type": "Noun",
+  "example_sentence": "Professor Johnson teaches physics.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943843"
+  },
+  "word": "Degree",
+  "meaning": "Bằng cấp",
+  "pronunciation": "/dɪˈɡriː/",
+  "word_type": "Noun",
+  "example_sentence": "She earned a Bachelor's degree in Business.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943844"
+  },
+  "word": "Major",
+  "meaning": "Ngành học chính",
+  "pronunciation": "/ˈmeɪdʒər/",
+  "word_type": "Noun",
+  "example_sentence": "She's studying biology as her major.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943845"
+  },
+  "word": "Minor",
+  "meaning": "Ngành học phụ",
+  "pronunciation": "/ˈmaɪnər/",
+  "word_type": "Noun",
+  "example_sentence": "She's minoring in French.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943846"
+  },
+  "word": "Semester",
+  "meaning": "Học kỳ",
+  "pronunciation": "/sɪˈmɛstər/",
+  "word_type": "Noun",
+  "example_sentence": "She's taking five courses this semester.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943847"
+  },
+  "word": "Lecture",
+  "meaning": "Bài giảng",
+  "pronunciation": "/ˈlɛkʧər/",
+  "word_type": "Noun",
+  "example_sentence": "She attended an interesting lecture on history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943848"
+  },
+  "word": "Study",
+  "meaning": "Học tập",
+  "pronunciation": "/ˈstʌdi/",
+  "word_type": "Verb",
+  "example_sentence": "She studies hard for her exams.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e93092943849"
+  },
+  "word": "Learn",
+  "meaning": "Học",
+  "pronunciation": "/lɜːrn/",
+  "word_type": "Verb",
+  "example_sentence": "He wants to learn to play the piano.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294384a"
+  },
+  "word": "Knowledgeable",
+  "meaning": "Thông thạo",
+  "pronunciation": "/ˈnɒlɪdʒəbl/",
+  "word_type": "Adjective",
+  "example_sentence": "She's very knowledgeable about history.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294384b"
+  },
+  "word": "Smart",
+  "meaning": "Thông minh",
+  "pronunciation": "/smɑːrt/",
+  "word_type": "Adjective",
+  "example_sentence": "He's a smart student.",
+  "topic": "Education"
+},
+{
+  "_id": {
+    "$oid": "660935831e73e9309294384c"
+  },
+  "word": "Intelligent",
+  "meaning": "Tài năng",
+  "pronunciation": "/ɪnˈtɛlɪdʒənt/",
+  "word_type": "Adjective",
+  "example_sentence": "She's an intelligent young woman.",
+  "topic": "Education"
+}]

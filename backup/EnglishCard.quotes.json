@@ -1,0 +1,91 @@
+[{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0cf"
+  },
+  "quote": "The only way to do great work is to love what you do.",
+  "author": "Steve Jobs"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d0"
+  },
+  "quote": "In the middle of difficulty lies opportunity.",
+  "author": "Albert Einstein"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d1"
+  },
+  "quote": "Believe you can and you're halfway there.",
+  "author": "Theodore Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d2"
+  },
+  "quote": "The only limit to our realization of tomorrow will be our doubts of today.",
+  "author": "Franklin D. Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d3"
+  },
+  "quote": "Success is not final, failure is not fatal: It is the courage to continue that counts.",
+  "author": "Winston Churchill"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d4"
+  },
+  "quote": "The best way to predict the future is to create it.",
+  "author": "Peter Drucker"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d5"
+  },
+  "quote": "Don't watch the clock; do what it does. Keep going.",
+  "author": "Sam Levenson"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d6"
+  },
+  "quote": "It does not matter how slowly you go as long as you do not stop.",
+  "author": "Confucius"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d7"
+  },
+  "quote": "The future belongs to those who believe in the beauty of their dreams.",
+  "author": "Eleanor Roosevelt"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d8"
+  },
+  "quote": "The only person you should try to be better than is the person you were yesterday.",
+  "author": "Anonymous"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0d9"
+  },
+  "quote": "Your time is limited, don't waste it living someone else's life.",
+  "author": "Steve Jobs"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0da"
+  },
+  "quote": "The only thing worse than being blind is having sight but no vision.",
+  "author": "Helen Keller"
+},
+{
+  "_id": {
+    "$oid": "66100ed513ff921ae635b0db"
+  },
+  "quote": "Life is 10% what happens to us and 90% how we react to it.",
+  "author": "Charles R. Swindoll"
+}]
