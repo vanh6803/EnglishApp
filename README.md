@@ -6,7 +6,11 @@ English Card is an app that makes learning English more interesting
 
 ## Preview
 
-[![English Card Preview](demo_thumbnail.png)](https://www.youtube.com/watch?v=eFZRFAqbIUA)
+<!-- [![English Card Preview](demo_thumbnail.png)](https://www.youtube.com/watch?v=eFZRFAqbIUA) -->
+
+<a href="link_to_video">
+  <img src="demo_thumbnail.png" alt="English Card Preview" style="max-width: 100px">
+</a>
 
 ## Installation
 
